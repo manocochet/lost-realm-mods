@@ -1,0 +1,943 @@
+{
+  "version": "2.0",
+  "base_url": "https://raw.githubusercontent.com/manocochet/lost-realm-mods/main",
+  "categories": {
+    "mods": {
+      "target": "mods",
+      "files": [
+        {
+          "name": "$R5TO7LH.jar",
+          "url": "mods/$R5TO7LH.jar",
+          "sha1": "8d990cc70d6eed4a49043a79087c2eca593dd8a5",
+          "size": 10808939
+        },
+        {
+          "name": "aether-1.20.1-1.5.2-neoforge.jar",
+          "url": "mods/aether-1.20.1-1.5.2-neoforge.jar",
+          "sha1": "fb6af601028e399016271bc166fd1de888680de7",
+          "size": 39746319
+        },
+        {
+          "name": "alexsmobs-1.22.9.jar",
+          "url": "mods/alexsmobs-1.22.9.jar",
+          "sha1": "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f",
+          "size": 26350793
+        },
+        {
+          "name": "Aquaculture-1.20.1-2.5.5.jar",
+          "url": "mods/Aquaculture-1.20.1-2.5.5.jar",
+          "sha1": "726e1058f839e98786877d3f94527b1a0917e924",
+          "size": 601173
+        },
+        {
+          "name": "aquamirae-6.API15.jar",
+          "url": "mods/aquamirae-6.API15.jar",
+          "sha1": "40b317060f6984db109fca1e117ba929dcf3d58c",
+          "size": 17317836
+        },
+        {
+          "name": "architectury-9.2.14-forge.jar",
+          "url": "mods/architectury-9.2.14-forge.jar",
+          "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+          "size": 580602
+        },
+        {
+          "name": "Armor of the Ages-forge-1.20.1-1.5.6.jar",
+          "url": "mods/Armor of the Ages-forge-1.20.1-1.5.6.jar",
+          "sha1": "7c9fcd962c4469156005ff421c5764d79a89fd55",
+          "size": 317617
+        },
+        {
+          "name": "astemirlib-1.20.1-1.25.jar",
+          "url": "mods/astemirlib-1.20.1-1.25.jar",
+          "sha1": "176cedc3f1661fae4dbe14056f7fdfb1e970d1bc",
+          "size": 370350
+        },
+        {
+          "name": "astikorcarts-1.20.1-1.1.8.jar",
+          "url": "mods/astikorcarts-1.20.1-1.1.8.jar",
+          "sha1": "49a8ac1c23282fe86420f0b4527e522421f2f692",
+          "size": 231706
+        },
+        {
+          "name": "athena-forge-1.20.1-3.1.2.jar",
+          "url": "mods/athena-forge-1.20.1-3.1.2.jar",
+          "sha1": "2acee24454af859988a691f0506271a465f68f7b",
+          "size": 91808
+        },
+        {
+          "name": "azurelib-neo-1.20.1-3.0.6 (1).jar",
+          "url": "mods/azurelib-neo-1.20.1-3.0.6 (1).jar",
+          "sha1": "7e465989156e88092d21a68738f12a89f779914f",
+          "size": 1252044
+        },
+        {
+          "name": "balm-forge-1.20.1-7.3.30-all.jar",
+          "url": "mods/balm-forge-1.20.1-7.3.30-all.jar",
+          "sha1": "df060fe183c16297d4e0e819076aea38c65e02b0",
+          "size": 594985
+        },
+        {
+          "name": "betterarcheology-1.2.1-1.20.1.jar",
+          "url": "mods/betterarcheology-1.2.1-1.20.1.jar",
+          "sha1": "c2cb928bef1c1aa89e90e72b8544b885aceb5d01",
+          "size": 982838
+        },
+        {
+          "name": "betterchunkloading-1.20.1-5.4.jar",
+          "url": "mods/betterchunkloading-1.20.1-5.4.jar",
+          "sha1": "cd7e61a4f5eca956094e0844560382ca58d79bc6",
+          "size": 55968
+        },
+        {
+          "name": "bettercombat-forge-1.8.6+1.20.1.jar",
+          "url": "mods/bettercombat-forge-1.8.6+1.20.1.jar",
+          "sha1": "70c20cd81a4051b2ad4289ff6522e80b397d7b3d",
+          "size": 1050118
+        },
+        {
+          "name": "betterdays-1.20.1-3.1.1.1-FORGE (1).jar",
+          "url": "mods/betterdays-1.20.1-3.1.1.1-FORGE (1).jar",
+          "sha1": "6ab76d72bf0589730b863cd92b63e4140cd3bd82",
+          "size": 513330
+        },
+        {
+          "name": "bettermobcombat-forge-1.20.1-1.3.0-all.jar",
+          "url": "mods/bettermobcombat-forge-1.20.1-1.3.0-all.jar",
+          "sha1": "fee499a8c76c5dfced84b01bfbd6323d7c0e8159",
+          "size": 280262
+        },
+        {
+          "name": "blockui-1.20.1-1.0.194.jar",
+          "url": "mods/blockui-1.20.1-1.0.194.jar",
+          "sha1": "9a50469803b8c078a24af3dbf0d323f1b891c526",
+          "size": 390916
+        },
+        {
+          "name": "BOMD-Forge-1.20.1-1.1.2.jar",
+          "url": "mods/BOMD-Forge-1.20.1-1.1.2.jar",
+          "sha1": "2caa8739ed9702c5ad87b6c5436432f8be755217",
+          "size": 1753623
+        },
+        {
+          "name": "born_in_chaos_[Forge]1.20.1_1.7.jar",
+          "url": "mods/born_in_chaos_[Forge]1.20.1_1.7.jar",
+          "sha1": "4ebb189aca8717d395ee1c0fb56623b4c6a28f47",
+          "size": 11688482
+        },
+        {
+          "name": "bossesrise-1.20.1-forge-1.0.9.2b.jar",
+          "url": "mods/bossesrise-1.20.1-forge-1.0.9.2b.jar",
+          "sha1": "e03c398470811d2eda8792ed66cd2468b3a48f51",
+          "size": 21696354
+        },
+        {
+          "name": "butcher-3.5.2-forge-1.20.1.jar",
+          "url": "mods/butcher-3.5.2-forge-1.20.1.jar",
+          "sha1": "e4c50ef2d9bf30f578b8b58f32961b50cbb5d84b",
+          "size": 34108246
+        },
+        {
+          "name": "Byzantine-1.21.1-32.1.jar",
+          "url": "mods/Byzantine-1.21.1-32.1.jar",
+          "sha1": "26ac3a9c1d888051475d8012ce32a8ffba9859f2",
+          "size": 11436955
+        },
+        {
+          "name": "caelus-forge-3.2.0+1.20.1.jar",
+          "url": "mods/caelus-forge-3.2.0+1.20.1.jar",
+          "sha1": "fa834f140bf7dce7b67c29b46cb531f4309d3209",
+          "size": 40125
+        },
+        {
+          "name": "CerbonsAPI-Forge-1.20.1-1.1.0.jar",
+          "url": "mods/CerbonsAPI-Forge-1.20.1-1.1.0.jar",
+          "sha1": "83cccb66e679d72345a5194e4ca520f647bc97e6",
+          "size": 241148
+        },
+        {
+          "name": "chipped-forge-1.20.1-3.0.7.jar",
+          "url": "mods/chipped-forge-1.20.1-3.0.7.jar",
+          "sha1": "e673f5cce8d0c9b6c495f9e9d2b01f8bdaff32f8",
+          "size": 16368760
+        },
+        {
+          "name": "chunksending-1.20.1-2.8.jar",
+          "url": "mods/chunksending-1.20.1-2.8.jar",
+          "sha1": "befdcf1c0177c8dd97d68ebb3c5c5581065caefe",
+          "size": 11734
+        },
+        {
+          "name": "citadel-2.6.1-1.20.1.jar",
+          "url": "mods/citadel-2.6.1-1.20.1.jar",
+          "sha1": "97ccbfda78ed538669352d868ad6fa6075ec6a99",
+          "size": 3173637
+        },
+        {
+          "name": "ClearLag Lite 1.20.1.jar",
+          "url": "mods/ClearLag Lite 1.20.1.jar",
+          "sha1": "5650904509182e6d1537551766f45bc123842077",
+          "size": 14936
+        },
+        {
+          "name": "cloth-config-11.1.136-forge.jar",
+          "url": "mods/cloth-config-11.1.136-forge.jar",
+          "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+          "size": 1181413
+        },
+        {
+          "name": "combatroll-forge-1.3.3+1.20.1 (1).jar",
+          "url": "mods/combatroll-forge-1.3.3+1.20.1 (1).jar",
+          "sha1": "4ff92ecd8df9b5a280330f68ef9c7a8a2300b23f",
+          "size": 217962
+        },
+        {
+          "name": "copycats-3.0.7+mc.1.20.1-forge.jar",
+          "url": "mods/copycats-3.0.7+mc.1.20.1-forge.jar",
+          "sha1": "5d0f497695fc2ee4ef89f1898458882b9d2d3aad",
+          "size": 1996097
+        },
+        {
+          "name": "Corgilib-Forge-1.20.1-4.0.3.3.jar",
+          "url": "mods/Corgilib-Forge-1.20.1-4.0.3.3.jar",
+          "sha1": "d16e759524a44d4aeaaeeab15ac2e687175af209",
+          "size": 360624
+        },
+        {
+          "name": "corpse-forge-1.20.1-1.0.20.jar",
+          "url": "mods/corpse-forge-1.20.1-1.0.20.jar",
+          "sha1": "fc5cd03dd52f24467c879b44296ddc70b85398f4",
+          "size": 244994
+        },
+        {
+          "name": "cratedelight-24.11.29-1.20-forge.jar",
+          "url": "mods/cratedelight-24.11.29-1.20-forge.jar",
+          "sha1": "09dfd040c58998d964eb3cea8f16eec39f55c457",
+          "size": 222721
+        },
+        {
+          "name": "create-1.20.1-6.0.8.jar",
+          "url": "mods/create-1.20.1-6.0.8.jar",
+          "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
+          "size": 19170905
+        },
+        {
+          "name": "cristellib-1.1.6-forge.jar",
+          "url": "mods/cristellib-1.1.6-forge.jar",
+          "sha1": "524ecf0f93f28be2f5db21d87dd81bdbc1a450e1",
+          "size": 431318
+        },
+        {
+          "name": "cupboard-1.20.1-2.7.jar",
+          "url": "mods/cupboard-1.20.1-2.7.jar",
+          "sha1": "204bc8aa83e8a685f64311b72d55505ab2eca867",
+          "size": 25983
+        },
+        {
+          "name": "curios-forge-5.14.1+1.20.1.jar",
+          "url": "mods/curios-forge-5.14.1+1.20.1.jar",
+          "sha1": "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480",
+          "size": 398066
+        },
+        {
+          "name": "CustomNPCs-GBPort-Unofficial-1.20.1.20250628.jar",
+          "url": "mods/CustomNPCs-GBPort-Unofficial-1.20.1.20250628.jar",
+          "sha1": "1e2cf88cf9533c3d2378c4f95b2f014e28321c6e",
+          "size": 10825438
+        },
+        {
+          "name": "Dawn Of Time-forge-1.20.1-1.5.13.jar",
+          "url": "mods/Dawn Of Time-forge-1.20.1-1.5.13.jar",
+          "sha1": "5305b896f63e332b23cb2a4274aaa2d1817c0449",
+          "size": 2868989
+        },
+        {
+          "name": "decorative_blocks-forge-1.20.1-4.1.3.jar",
+          "url": "mods/decorative_blocks-forge-1.20.1-4.1.3.jar",
+          "sha1": "10263d3e99807662ff065edce0e470fe62e84b30",
+          "size": 573928
+        },
+        {
+          "name": "domum_ornamentum-1.20.1-1.0.285-snapshot-universal.jar",
+          "url": "mods/domum_ornamentum-1.20.1-1.0.285-snapshot-universal.jar",
+          "sha1": "c7ac72b2e4fb5309e3cd0988b610c2f3016b9cb9",
+          "size": 1096466
+        },
+        {
+          "name": "DragNs_Deadly_Dinos-1.20.1-1.0.2.jar",
+          "url": "mods/DragNs_Deadly_Dinos-1.20.1-1.0.2.jar",
+          "sha1": "05758a7c08569aac5ee3ef85440940560da9a186",
+          "size": 2350709
+        },
+        {
+          "name": "DragNs_Livestock_Overhaul-1.20.1-3.5.jar",
+          "url": "mods/DragNs_Livestock_Overhaul-1.20.1-3.5.jar",
+          "sha1": "a2c7b5de21e98386ccf74138ba684f81c4d0672f",
+          "size": 8244003
+        },
+        {
+          "name": "DragNs_Pet_Overhaul-1.20.1-2.0.1.jar",
+          "url": "mods/DragNs_Pet_Overhaul-1.20.1-2.0.1.jar",
+          "sha1": "8ccf6bdc43ee5e04a21c9494de3b4b279d678d8b",
+          "size": 1115225
+        },
+        {
+          "name": "Dungeon Crawl-1.20.1-2.3.15.jar",
+          "url": "mods/Dungeon Crawl-1.20.1-2.3.15.jar",
+          "sha1": "e17ebc9be0b3f0646f2de10563b72827442cc866",
+          "size": 758123
+        },
+        {
+          "name": "dungeons_enhanced-1.20.1-5.4.1.jar",
+          "url": "mods/dungeons_enhanced-1.20.1-5.4.1.jar",
+          "sha1": "0c0fb63075e065c6cfc2a4667b4ec193509de9d4",
+          "size": 1420542
+        },
+        {
+          "name": "effortlessbuilding-1.20.1-3.10.jar",
+          "url": "mods/effortlessbuilding-1.20.1-3.10.jar",
+          "sha1": "f71f32238e9d08e71b95941d8f69740d245f2a6a",
+          "size": 2285317
+        },
+        {
+          "name": "EnderWyrmlings-1.0.0-forge-1.20.1.jar",
+          "url": "mods/EnderWyrmlings-1.0.0-forge-1.20.1.jar",
+          "sha1": "70154a21cc88f838e3b2c794ad4a8484077e3d44",
+          "size": 777627
+        },
+        {
+          "name": "Epic Villages v1.1.0 (1.20+).jar",
+          "url": "mods/Epic Villages v1.1.0 (1.20+).jar",
+          "sha1": "c94dbe642d0680deb56a5578923c8cc49dbfd52e",
+          "size": 3136389
+        },
+        {
+          "name": "epicknights_open_helms-1.1-forge-1.20.1.jar",
+          "url": "mods/epicknights_open_helms-1.1-forge-1.20.1.jar",
+          "sha1": "7e2c55d205f98abe46c4e73e4d16a5b874299952",
+          "size": 563027
+        },
+        {
+          "name": "eureka-1201-1.6.1.jar",
+          "url": "mods/eureka-1201-1.6.1.jar",
+          "sha1": "bd7a9794bc4b8be4cf3d1d90012b1390f7463033",
+          "size": 462497
+        },
+        {
+          "name": "Explorify v1.6.2 f10-48.jar",
+          "url": "mods/Explorify v1.6.2 f10-48.jar",
+          "sha1": "f04907ed21f6239f90031cfe1d79b43e3ef76cb9",
+          "size": 974818
+        },
+        {
+          "name": "fantasyfurniture-1.20.1-9.0.0.jar",
+          "url": "mods/fantasyfurniture-1.20.1-9.0.0.jar",
+          "sha1": "85b51d883025413c89ce52ae5e9a7071bc4e53a3",
+          "size": 3202951
+        },
+        {
+          "name": "ftb-library-forge-2001.2.9.jar",
+          "url": "mods/ftb-library-forge-2001.2.9.jar",
+          "sha1": "42639a90f91c79d6b323ede5e229a79c050f4dc7",
+          "size": 791841
+        },
+        {
+          "name": "ftb-teams-forge-2001.3.1.jar",
+          "url": "mods/ftb-teams-forge-2001.3.1.jar",
+          "sha1": "c2af94e0b86631cb75daa8de2377ff72527651ca",
+          "size": 248592
+        },
+        {
+          "name": "ftb-ultimine-forge-2001.1.5.jar",
+          "url": "mods/ftb-ultimine-forge-2001.1.5.jar",
+          "sha1": "106aa8ae16ceda4bb7244bfc64a6ee86c842f2a5",
+          "size": 108517
+        },
+        {
+          "name": "fusion-1.2.12-forge-mc1.20.1.jar",
+          "url": "mods/fusion-1.2.12-forge-mc1.20.1.jar",
+          "sha1": "ec5c8a552493297842543140fed1b0a327c217f4",
+          "size": 544586
+        },
+        {
+          "name": "fusion-1.2.7b-forge-mc1.20.1.jar",
+          "url": "mods/fusion-1.2.7b-forge-mc1.20.1.jar",
+          "sha1": "b2b22926e3a4aabb0638837caf620759ca97e7d3",
+          "size": 540383
+        },
+        {
+          "name": "geckolib-forge-1.20.1-4.8.3 (1).jar",
+          "url": "mods/geckolib-forge-1.20.1-4.8.3 (1).jar",
+          "sha1": "5428765c6c2e2135da6ee01f2f0478fa0db6aee7",
+          "size": 1039046
+        },
+        {
+          "name": "GlitchCore-forge-1.20.1-0.0.1.1 (1).jar",
+          "url": "mods/GlitchCore-forge-1.20.1-0.0.1.1 (1).jar",
+          "sha1": "1a0aaf7c33b9acb26bf75899a43e8941cac1f6e7",
+          "size": 87550
+        },
+        {
+          "name": "gnumus_settlement_[Forge]1.20.1_v1.0.jar",
+          "url": "mods/gnumus_settlement_[Forge]1.20.1_v1.0.jar",
+          "sha1": "058b7f35e0b91fe8b946cffe80bb28e5270bfb41",
+          "size": 891249
+        },
+        {
+          "name": "guardvillagers-1.20.1-1.6.10.jar",
+          "url": "mods/guardvillagers-1.20.1-1.6.10.jar",
+          "sha1": "4638a636bd6b10ed1629c5c0ce72170c44f9e2ca",
+          "size": 199803
+        },
+        {
+          "name": "hammers-2.1.1-1.20.1.jar",
+          "url": "mods/hammers-2.1.1-1.20.1.jar",
+          "sha1": "9fc80e1b3bc34ef3c2971db2fe4978ef502abee3",
+          "size": 155068
+        },
+        {
+          "name": "hero-proof-5.1.2.jar",
+          "url": "mods/hero-proof-5.1.2.jar",
+          "sha1": "f31d7881302d30326dd0aa825512d4044dfb5d91",
+          "size": 26442
+        },
+        {
+          "name": "Holy Guac! State Marks!-1.0.0-forge-1.20.1.jar",
+          "url": "mods/Holy Guac! State Marks!-1.0.0-forge-1.20.1.jar",
+          "sha1": "11bcc7cb4f531f4e24162f0384e88a243a03f7e0",
+          "size": 51267
+        },
+        {
+          "name": "HundredYearsWar-0.4.0r-1.20.1-forge (1).jar",
+          "url": "mods/HundredYearsWar-0.4.0r-1.20.1-forge (1).jar",
+          "sha1": "774ec0f401c1837c42457924f135bc36a01182b0",
+          "size": 4503715
+        },
+        {
+          "name": "iceandfire-2.1.13-1.20.1-beta-5.jar",
+          "url": "mods/iceandfire-2.1.13-1.20.1-beta-5.jar",
+          "sha1": "7e828cbb046ca3d622e92c68f956bd1c0155dc6f",
+          "size": 21854126
+        },
+        {
+          "name": "immersive_melodies-0.6.0+1.20.1-forge.jar",
+          "url": "mods/immersive_melodies-0.6.0+1.20.1-forge.jar",
+          "sha1": "688f2b905c99a2d2c86f016eb09712d978f99102",
+          "size": 5517578
+        },
+        {
+          "name": "immersive_paintings-0.6.7+1.20.1-forge.jar",
+          "url": "mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
+          "sha1": "46910c10470c43cb1566384e9422fb76b341b84c",
+          "size": 4841253
+        },
+        {
+          "name": "jei-1.20.1-forge-15.20.0.106.jar",
+          "url": "mods/jei-1.20.1-forge-15.20.0.106.jar",
+          "sha1": "77928d15d797663846cba44de8f79e4e4c5fdbb7",
+          "size": 1379220
+        },
+        {
+          "name": "kotlinforforge-4.11.0-all.jar",
+          "url": "mods/kotlinforforge-4.11.0-all.jar",
+          "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
+          "size": 7193768
+        },
+        {
+          "name": "letsdo-API-forge-1.2.15-forge.jar",
+          "url": "mods/letsdo-API-forge-1.2.15-forge.jar",
+          "sha1": "a261043a45097d861a13a63ebdbb0ca350e06a63",
+          "size": 1440591
+        },
+        {
+          "name": "letsdo-bakery-forge-2.0.5.jar",
+          "url": "mods/letsdo-bakery-forge-2.0.5.jar",
+          "sha1": "b2ec99a66d1b76d4c9d0f46a8a0bdc8c7277d24e",
+          "size": 1222083
+        },
+        {
+          "name": "letsdo-brewery-forge-2.0.5.jar",
+          "url": "mods/letsdo-brewery-forge-2.0.5.jar",
+          "sha1": "fe69212fb76b23aa86902d76206049de7df7b02a",
+          "size": 2043361
+        },
+        {
+          "name": "letsdo-farm_and_charm-forge-1.0.8.jar",
+          "url": "mods/letsdo-farm_and_charm-forge-1.0.8.jar",
+          "sha1": "e3a9e77ba93b2187ee6c34354853e7764a14d73a",
+          "size": 2134343
+        },
+        {
+          "name": "letsdo-furniture-forge-1.0.4.jar",
+          "url": "mods/letsdo-furniture-forge-1.0.4.jar",
+          "sha1": "272cdaa252b23888ad7fae6959bdfe89317a35bd",
+          "size": 2816299
+        },
+        {
+          "name": "letsdo-herbalbrews-forge-1.0.12.jar",
+          "url": "mods/letsdo-herbalbrews-forge-1.0.12.jar",
+          "sha1": "3de7feb383868a0db45351580d6ef5b05b776f16",
+          "size": 735868
+        },
+        {
+          "name": "letsdo-vinery-forge-1.4.39.jar",
+          "url": "mods/letsdo-vinery-forge-1.4.39.jar",
+          "sha1": "60270b89585995ba235d142d92d0fb92a0d638fc",
+          "size": 3174482
+        },
+        {
+          "name": "letsdo-wildernature-forge-1.0.5.jar",
+          "url": "mods/letsdo-wildernature-forge-1.0.5.jar",
+          "sha1": "35c5f6abe398d3ce62d2641d7d7f9e2d38c63eb8",
+          "size": 2097218
+        },
+        {
+          "name": "lionfishapi-2.4-Fix.jar",
+          "url": "mods/lionfishapi-2.4-Fix.jar",
+          "sha1": "b198f38fb27dfc6db490b496d56aa1622d5a5b87",
+          "size": 162767
+        },
+        {
+          "name": "lmft-1.0.4+1.20.1-forge.jar",
+          "url": "mods/lmft-1.0.4+1.20.1-forge.jar",
+          "sha1": "e44a12eb51813b16faaab89b8073ec63c746c1b0",
+          "size": 178625
+        },
+        {
+          "name": "Luminous V1.5.2 - Forge 1.20.1.jar",
+          "url": "mods/Luminous V1.5.2 - Forge 1.20.1.jar",
+          "sha1": "789627d635e35d7188f3a5963b87f6f454733250",
+          "size": 23195236
+        },
+        {
+          "name": "L_Enders_Cataclysm 1.20.1-2.66.jar",
+          "url": "mods/L_Enders_Cataclysm 1.20.1-2.66.jar",
+          "sha1": "379b3e3a3052763ccf0feee0b92f6be5f440cd11",
+          "size": 72159722
+        },
+        {
+          "name": "ManyIdeasCore-1.20.1-1.4.2.jar",
+          "url": "mods/ManyIdeasCore-1.20.1-1.4.2.jar",
+          "sha1": "132bb3770464d4af3696e09d23d9a6d3a9ee78ee",
+          "size": 933519
+        },
+        {
+          "name": "ManyIdeasDoors-1.20.1-1.2.3.jar",
+          "url": "mods/ManyIdeasDoors-1.20.1-1.2.3.jar",
+          "sha1": "881413e58ac266dc07f43058b2b076f73a82322f",
+          "size": 3261131
+        },
+        {
+          "name": "mcw-doors-1.1.2-mc1.20.1forge.jar",
+          "url": "mods/mcw-doors-1.1.2-mc1.20.1forge.jar",
+          "sha1": "731069f0a9c1377da0681415b6523e71439ae014",
+          "size": 1250199
+        },
+        {
+          "name": "medieval_boomsticks-1.2.jar",
+          "url": "mods/medieval_boomsticks-1.2.jar",
+          "sha1": "81a26754a4ab1c07d13bd84d87bee64dc6a575da",
+          "size": 456510
+        },
+        {
+          "name": "Medieval_Embroidery-1.20.1-0.7.5.jar",
+          "url": "mods/Medieval_Embroidery-1.20.1-0.7.5.jar",
+          "sha1": "f8a478f94fcaae42ef427d3943b83b4e0adaf769",
+          "size": 2680054
+        },
+        {
+          "name": "minecolonies-1.20.1-1.1.897-snapshot (1).jar",
+          "url": "mods/minecolonies-1.20.1-1.1.897-snapshot (1).jar",
+          "sha1": "8390dcd30ef69369b1c9800cc9d435ac2714796a",
+          "size": 71921445
+        },
+        {
+          "name": "minecolonies_free_research-1.1.0.jar",
+          "url": "mods/minecolonies_free_research-1.1.0.jar",
+          "sha1": "eee35ef2938214c391de44c667dab8a226a62f89",
+          "size": 80681
+        },
+        {
+          "name": "mobplayeranimator-forge-1.20.1-1.3.3-all.jar",
+          "url": "mods/mobplayeranimator-forge-1.20.1-1.3.3-all.jar",
+          "sha1": "5767ecee24e34efb138403a45de1589e38ddc624",
+          "size": 223397
+        },
+        {
+          "name": "mobs_of_mythology-forge-1.20.1-2.1.2.jar",
+          "url": "mods/mobs_of_mythology-forge-1.20.1-2.1.2.jar",
+          "sha1": "844f168a6da46f3f71ebda31a641e813629b0584",
+          "size": 601749
+        },
+        {
+          "name": "modonomicon-1.20.1-forge-1.77.6.jar",
+          "url": "mods/modonomicon-1.20.1-forge-1.77.6.jar",
+          "sha1": "6dc377631b94d7ea0996c22ecf2bde1ce5b55a7a",
+          "size": 2226778
+        },
+        {
+          "name": "mowziesmobs-1.7.2.jar",
+          "url": "mods/mowziesmobs-1.7.2.jar",
+          "sha1": "af09543b27be73afdef57c534926ee53043344c8",
+          "size": 35239370
+        },
+        {
+          "name": "mvs-4.1.4-1.20-forge.jar",
+          "url": "mods/mvs-4.1.4-1.20-forge.jar",
+          "sha1": "e148cb091339042eee0a498b73b1dcc166f8ad78",
+          "size": 1325988
+        },
+        {
+          "name": "Nullscape_1.20.x_v1.2.8.jar",
+          "url": "mods/Nullscape_1.20.x_v1.2.8.jar",
+          "sha1": "e4afd980e788f1861d8a8263bc700312667df977",
+          "size": 399214
+        },
+        {
+          "name": "obscure_api-15.jar",
+          "url": "mods/obscure_api-15.jar",
+          "sha1": "30e37354519b4ca06bc617ccb2698cc696fdae9b",
+          "size": 497136
+        },
+        {
+          "name": "Oh-The-Biomes-Weve-Gone-Forge-1.5.11.jar",
+          "url": "mods/Oh-The-Biomes-Weve-Gone-Forge-1.5.11.jar",
+          "sha1": "03c69fce6167424ee5397c2aa00efedbbba2a099",
+          "size": 34400785
+        },
+        {
+          "name": "Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.9.jar",
+          "url": "mods/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.9.jar",
+          "sha1": "0a55f026362b560b3b491328ce6d2812a4f65de7",
+          "size": 127998
+        },
+        {
+          "name": "Paraglider-forge-20.1.3.jar",
+          "url": "mods/Paraglider-forge-20.1.3.jar",
+          "sha1": "51fdf94686fc847515e6de8a6c9fd4dab3466ea5",
+          "size": 589055
+        },
+        {
+          "name": "Patchouli-1.20.1-84.1-FORGE.jar",
+          "url": "mods/Patchouli-1.20.1-84.1-FORGE.jar",
+          "sha1": "e91d2e2f251375d647d592b670ea6f310c2554eb",
+          "size": 642711
+        },
+        {
+          "name": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+          "url": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+          "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+          "size": 181437
+        },
+        {
+          "name": "realmrpg_imps_and_demons_0.9.0_forge_1.20.1.jar",
+          "url": "mods/realmrpg_imps_and_demons_0.9.0_forge_1.20.1.jar",
+          "sha1": "319ce6061ca0cc72c2d62b04ea4c48e799782b25",
+          "size": 128944
+        },
+        {
+          "name": "realmrpg_seadwellers_2.9.9_forge_1.20.1.jar",
+          "url": "mods/realmrpg_seadwellers_2.9.9_forge_1.20.1.jar",
+          "sha1": "f6d203ddb9590c613f644e163fdc1e6af7f7c36e",
+          "size": 752943
+        },
+        {
+          "name": "rechiseled-1.2.2-forge-mc1.20.1.jar",
+          "url": "mods/rechiseled-1.2.2-forge-mc1.20.1.jar",
+          "sha1": "5c29805d76543f44585e7cd1579532c8c597a332",
+          "size": 14952695
+        },
+        {
+          "name": "RecipesLibrary-1.20.1-2.0.1.jar",
+          "url": "mods/RecipesLibrary-1.20.1-2.0.1.jar",
+          "sha1": "e03b505cc5be2711e0f5c6c0c591b0019a95d226",
+          "size": 100251
+        },
+        {
+          "name": "resourcefullib-forge-1.20.1-2.1.29.jar",
+          "url": "mods/resourcefullib-forge-1.20.1-2.1.29.jar",
+          "sha1": "6fc590a7c56a720fec57e290cbb0a106efbb3ffa",
+          "size": 432753
+        },
+        {
+          "name": "saintsdragons-1.20.1-0.7.2-FORGE-ALPHA.jar",
+          "url": "mods/saintsdragons-1.20.1-0.7.2-FORGE-ALPHA.jar",
+          "sha1": "255a131f94c06b5a53cde356ae249de75103b912",
+          "size": 14323690
+        },
+        {
+          "name": "SereneSeasons-forge-1.20.1-9.1.0.2 (1).jar",
+          "url": "mods/SereneSeasons-forge-1.20.1-9.1.0.2 (1).jar",
+          "sha1": "706d3eaf79ce5b33a30f3ad1aaa88a2a4483abf6",
+          "size": 160887
+        },
+        {
+          "name": "simpleshops-1.2.2.jar",
+          "url": "mods/simpleshops-1.2.2.jar",
+          "sha1": "8751f9a178b3002e746b2f30af75dd83281821ee",
+          "size": 135614
+        },
+        {
+          "name": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
+          "url": "mods/smallships-forge-1.20.1-2.0.0-b1.4.jar",
+          "sha1": "9998ddc8a278e0b87ab642d289ae2a1e3dbebef6",
+          "size": 1816687
+        },
+        {
+          "name": "SmartBrainLib-forge-1.20.1-1.15 (2).jar",
+          "url": "mods/SmartBrainLib-forge-1.20.1-1.15 (2).jar",
+          "sha1": "d278b6ca36075c4d097677345a25751f9aeed3c1",
+          "size": 362338
+        },
+        {
+          "name": "sparsestructuresreforged-1.20.1-0.0.1.jar",
+          "url": "mods/sparsestructuresreforged-1.20.1-0.0.1.jar",
+          "sha1": "06ff9088a1ffce096b4826337cd571c5517a3a8b",
+          "size": 9240
+        },
+        {
+          "name": "spawnbalanceutility-1.20-46.13.7.jar",
+          "url": "mods/spawnbalanceutility-1.20-46.13.7.jar",
+          "sha1": "79a36a36442cd6bdbda2328acf25e31959954bb3",
+          "size": 66767
+        },
+        {
+          "name": "stalwart-dungeons-1.20.1-1.2.8.jar",
+          "url": "mods/stalwart-dungeons-1.20.1-1.2.8.jar",
+          "sha1": "da49b50013deee55861e81664096818357d563ac",
+          "size": 1049721
+        },
+        {
+          "name": "Stellarity-v2-0e.jar",
+          "url": "mods/Stellarity-v2-0e.jar",
+          "sha1": "d54f54446b7afaed0c7bdf9679bc376f4913d16c",
+          "size": 12562436
+        },
+        {
+          "name": "StorageDrawers-1.20.1-12.9.14.jar",
+          "url": "mods/StorageDrawers-1.20.1-12.9.14.jar",
+          "sha1": "0f96a4f409515d660ed7fb206edb2fd998bfbf29",
+          "size": 950686
+        },
+        {
+          "name": "Structory_1.20.x_v1.3.5.jar",
+          "url": "mods/Structory_1.20.x_v1.3.5.jar",
+          "sha1": "88c1d90ac79c98a50e3e4bd3a93c70431c716dd5",
+          "size": 1286460
+        },
+        {
+          "name": "structure_gel-1.20.1-2.16.2.jar",
+          "url": "mods/structure_gel-1.20.1-2.16.2.jar",
+          "sha1": "ec8c59d2a69eca3249a8da673f572b40b6d59895",
+          "size": 966028
+        },
+        {
+          "name": "structurize-1.20.1-1.0.772-snapshot.jar",
+          "url": "mods/structurize-1.20.1-1.0.772-snapshot.jar",
+          "sha1": "8a0fc3c418d07677795ac23088946f91427ea4cf",
+          "size": 1062235
+        },
+        {
+          "name": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+          "url": "mods/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+          "sha1": "f80f9eed728966adcfbcc848633e789645057281",
+          "size": 206584
+        },
+        {
+          "name": "supermartijn642corelib-1.1.20-forge-mc1.20.1.jar",
+          "url": "mods/supermartijn642corelib-1.1.20-forge-mc1.20.1.jar",
+          "sha1": "9fa704bce5ef3fc2b38d1ba73cb6f6a38f10e33f",
+          "size": 555116
+        },
+        {
+          "name": "TCTcore-1.20.1.jar",
+          "url": "mods/TCTcore-1.20.1.jar",
+          "sha1": "fb2ae1c1eb3ba00c7a19fd7568f78d4ebaef13be",
+          "size": 170859
+        },
+        {
+          "name": "tectonic-forge-1.20.1-2.4.1.jar",
+          "url": "mods/tectonic-forge-1.20.1-2.4.1.jar",
+          "sha1": "55412e1b8ef36cd8eabef83d47f9377e78904f65",
+          "size": 349125
+        },
+        {
+          "name": "TerraBlender-forge-1.20.1-3.0.1.10.jar",
+          "url": "mods/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+          "sha1": "3bd99fb59e8b06b04e78b5153790c1e08b2be5dc",
+          "size": 107532
+        },
+        {
+          "name": "The_Undergarden-1.20.1-0.8.14.jar",
+          "url": "mods/The_Undergarden-1.20.1-0.8.14.jar",
+          "sha1": "d823f6da5ea81ee09df8038dc5645986b184a451",
+          "size": 45084263
+        },
+        {
+          "name": "Towns-and-Towers-1.12-Fabric+Forge.jar",
+          "url": "mods/Towns-and-Towers-1.12-Fabric+Forge.jar",
+          "sha1": "5a28ec56457cf1bf154e993cf73dba0428a7921b",
+          "size": 2864275
+        },
+        {
+          "name": "towntalk-1.20.1-1.1.0.jar",
+          "url": "mods/towntalk-1.20.1-1.1.0.jar",
+          "sha1": "03e6488b9e762888d1d187d5cf73a60695b63c52",
+          "size": 49194778
+        },
+        {
+          "name": "travelersbackpack-forge-1.20.1-9.1.38.jar",
+          "url": "mods/travelersbackpack-forge-1.20.1-9.1.38.jar",
+          "sha1": "9bc0e2b5d0d6147cb570199048874656f7c57b80",
+          "size": 1173691
+        },
+        {
+          "name": "valarian_conquest-4.1.1-forge-1.20.1.jar",
+          "url": "mods/valarian_conquest-4.1.1-forge-1.20.1.jar",
+          "sha1": "e666f739b272a953e4e86aa576473391e9febc44",
+          "size": 10608898
+        },
+        {
+          "name": "valkyrienskies-120-2.4.10.jar",
+          "url": "mods/valkyrienskies-120-2.4.10.jar",
+          "sha1": "4e6662cacbbe863871d4d4ddcbfa3ca9c43a16c6",
+          "size": 27249986
+        },
+        {
+          "name": "villagesandpillages-forge-mc1.20.1-1.0.2.jar",
+          "url": "mods/villagesandpillages-forge-mc1.20.1-1.0.2.jar",
+          "sha1": "f80991a44ece347f0be2724c63159b6e46ae8393",
+          "size": 243628
+        },
+        {
+          "name": "War 'N Taxes Mod - vers1.9.9.jar",
+          "url": "mods/War 'N Taxes Mod - vers1.9.9.jar",
+          "sha1": "2c7d85ee55ce489d3f4b35a39e2d0ff336cbb44c",
+          "size": 136183
+        },
+        {
+          "name": "waystones-forge-1.20.1-14.1.13.jar",
+          "url": "mods/waystones-forge-1.20.1-14.1.13.jar",
+          "sha1": "d33944abd64f1439dacb11abd022d53ad631540d",
+          "size": 487241
+        },
+        {
+          "name": "weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
+          "url": "mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
+          "sha1": "9fe819dc110461f55909dabbed73e4fe3bdde158",
+          "size": 283977
+        },
+        {
+          "name": "worldedit-mod-7.2.15.jar",
+          "url": "mods/worldedit-mod-7.2.15.jar",
+          "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f",
+          "size": 5825402
+        },
+        {
+          "name": "XaerosWorldMap_1.39.9_Forge_1.20.jar",
+          "url": "mods/XaerosWorldMap_1.39.9_Forge_1.20.jar",
+          "sha1": "f268b46213c4c2245421f137c5f03b4164d8ab33",
+          "size": 948532
+        },
+        {
+          "name": "Xaeros_Minimap_25.2.6_Forge_1.20.jar",
+          "url": "mods/Xaeros_Minimap_25.2.6_Forge_1.20.jar",
+          "sha1": "59386b42346aa909ce8cab98962affd01ecc4f0a",
+          "size": 1704662
+        },
+        {
+          "name": "xaeros_waystones_compability-1.19.2-1.20.1--1.0.jar",
+          "url": "mods/xaeros_waystones_compability-1.19.2-1.20.1--1.0.jar",
+          "sha1": "a5cee92bae3ebb6a95f01e972a71ca794bc60f98",
+          "size": 325574
+        },
+        {
+          "name": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+          "url": "mods/yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
+          "sha1": "644731e321c53a35a0b3177a3cc6347fe38002f4",
+          "size": 1105891
+        },
+        {
+          "name": "YungsApi-1.20-Forge-4.0.6.jar",
+          "url": "mods/YungsApi-1.20-Forge-4.0.6.jar",
+          "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+          "size": 370524
+        },
+        {
+          "name": "[1.20.1-forge]-Epic-Knights-9.23.jar",
+          "url": "mods/[1.20.1-forge]-Epic-Knights-9.23.jar",
+          "sha1": "2605c36d39fdb4d7fa654cce175573603840ac66",
+          "size": 2669952
+        },
+        {
+          "name": "[1.20.1-forge]-Epic-Knights-Ores-and-Alloys-1.1.jar",
+          "url": "mods/[1.20.1-forge]-Epic-Knights-Ores-and-Alloys-1.1.jar",
+          "sha1": "f518c42c64f472e464adc067da389c0797af141b",
+          "size": 248975
+        },
+        {
+          "name": "[1.20.1]romancraft-0.9-forge.jar",
+          "url": "mods/[1.20.1]romancraft-0.9-forge.jar",
+          "sha1": "112a9cba5f4a98b57d9e9bae64c8887100777ae0",
+          "size": 1571274
+        },
+        {
+          "name": "[1.20.x-forge]-Epic-Knights-Addon-1.22.jar",
+          "url": "mods/[1.20.x-forge]-Epic-Knights-Addon-1.22.jar",
+          "sha1": "39aae7cba8f0fb821ee665f43a716da0b1e98387",
+          "size": 2205327
+        },
+        {
+          "name": "[1.20.x-forge]-Epic-Knights-Antique-Legacy-1.8 (1).jar",
+          "url": "mods/[1.20.x-forge]-Epic-Knights-Antique-Legacy-1.8 (1).jar",
+          "sha1": "077ed91caf52c2f61cd16e43e33597cf0e119d7c",
+          "size": 5443776
+        },
+        {
+          "name": "[1.20.x-forge]-Epic-Knights-Slavic-Armory-1.5.jar",
+          "url": "mods/[1.20.x-forge]-Epic-Knights-Slavic-Armory-1.5.jar",
+          "sha1": "4c80e2058dcdfa4aa1aab52add7a3a7026dfe3db",
+          "size": 1007739
+        }
+      ]
+    },
+    "shaderpacks": {
+      "target": "shaderpacks",
+      "files": [
+        {
+          "name": "Bliss-Shader-ConquestReforged-Settings.zip",
+          "url": "shaderpacks/Bliss-Shader-ConquestReforged-Settings.zip",
+          "sha1": "ac702863867ddce8f333757bd3462b4ccb43c9ef",
+          "size": 1956250
+        }
+      ]
+    },
+    "resourcepacks": {
+      "target": "resourcepacks",
+      "files": [
+        {
+          "name": "AAAAAAAAAAAA.zip",
+          "url": "resourcepacks/AAAAAAAAAAAA.zip",
+          "sha1": "a8a0e0faeb1b8e7f447e7cbf883b17535d64ddf9",
+          "size": 214597528
+        },
+        {
+          "name": "Excalibur_V1.20.zip",
+          "url": "resourcepacks/Excalibur_V1.20.zip",
+          "sha1": "5a49050cd16d898a29d329c21a3006b2381a0dcc",
+          "size": 17107369
+        },
+        {
+          "name": "\u00a76Dynamic\u00a79Surroundings \u00a72R5.zip",
+          "url": "resourcepacks/\u00a76Dynamic\u00a79Surroundings \u00a72R5.zip",
+          "sha1": "052ea766464071e3fc0b9eeca5b978dcb725eead",
+          "size": 153356817
+        }
+      ]
+    },
+    "config": {
+      "target": "config",
+      "files": []
+    }
+  }
+}
