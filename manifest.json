@@ -932,14 +932,7 @@
     },
     "resourcepacks": {
       "target": "resourcepacks",
-      "files": [
-        {
-          "name": "Excalibur_V1.20.zip",
-          "url": "resourcepacks/Excalibur_V1.20.zip",
-          "sha1": "5a49050cd16d898a29d329c21a3006b2381a0dcc",
-          "size": 17107369
-        }
-      ]
+      "files": []
     },
     "config": {
       "target": "config",
