@@ -1477,6 +1477,2142 @@
           "url": "config/xaeroworldmap.txt",
           "sha1": "1a95f5132e80a62f6584693be5252c89b3851304",
           "size": 1220
+        },
+        {
+          "name": "aether/aether_customizations.txt",
+          "url": "config/aether/aether_customizations.txt",
+          "sha1": "b9f71c03578eef752fe3c401112845574529aef1",
+          "size": 84
+        },
+        {
+          "name": "aether/sun_altar_whitelist.json",
+          "url": "config/aether/sun_altar_whitelist.json",
+          "sha1": "97d170e1550eee4afc0af065b78cda302a97674c",
+          "size": 2
+        },
+        {
+          "name": "alexsmobs/alligator_snapping_turtle_spawns.json",
+          "url": "config/alexsmobs/alligator_snapping_turtle_spawns.json",
+          "sha1": "2fecd47dfe3901bf041cdbfd7762775aed8ff02b",
+          "size": 754
+        },
+        {
+          "name": "alexsmobs/anaconda_spawns.json",
+          "url": "config/alexsmobs/anaconda_spawns.json",
+          "sha1": "5276886bf74157b158f4a554b7674bcc3b25817c",
+          "size": 1036
+        },
+        {
+          "name": "alexsmobs/anteater_spawns.json",
+          "url": "config/alexsmobs/anteater_spawns.json",
+          "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
+          "size": 1166
+        },
+        {
+          "name": "alexsmobs/bald_eagle_spawns.json",
+          "url": "config/alexsmobs/bald_eagle_spawns.json",
+          "sha1": "75bd4a673a5c6788f42a6bd6d2091127333efbcc",
+          "size": 2723
+        },
+        {
+          "name": "alexsmobs/banana_slug_spawns.json",
+          "url": "config/alexsmobs/banana_slug_spawns.json",
+          "sha1": "09614cac8bc432f04d9c00fc36ca5c19ee671957",
+          "size": 1697
+        },
+        {
+          "name": "alexsmobs/bison_spawns.json",
+          "url": "config/alexsmobs/bison_spawns.json",
+          "sha1": "43af4f66f883adee9ae16a3e373eae6056e212c1",
+          "size": 1761
+        },
+        {
+          "name": "alexsmobs/blobfish_spawns.json",
+          "url": "config/alexsmobs/blobfish_spawns.json",
+          "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
+          "size": 146
+        },
+        {
+          "name": "alexsmobs/blue_jay_spawns.json",
+          "url": "config/alexsmobs/blue_jay_spawns.json",
+          "sha1": "4a704c533746078e7338f88c29f181166a092606",
+          "size": 4020
+        },
+        {
+          "name": "alexsmobs/bone_serpent_spawns.json",
+          "url": "config/alexsmobs/bone_serpent_spawns.json",
+          "sha1": "a8f86f76bd08d4edf938eabb604cbb31c4b6ca48",
+          "size": 257
+        },
+        {
+          "name": "alexsmobs/bunfungus_spawns.json",
+          "url": "config/alexsmobs/bunfungus_spawns.json",
+          "sha1": "984700d0723c99153ae6fe1ea99d960f9a9c2ee1",
+          "size": 486
+        },
+        {
+          "name": "alexsmobs/cachalot_whale_beached_spawns.json",
+          "url": "config/alexsmobs/cachalot_whale_beached_spawns.json",
+          "sha1": "c428aeede9825f740c73a8e600785aa8b2c2d009",
+          "size": 642
+        },
+        {
+          "name": "alexsmobs/cachalot_whale_spawns.json",
+          "url": "config/alexsmobs/cachalot_whale_spawns.json",
+          "sha1": "725b91593440bd553a8a1aee2cc3d2fc11455519",
+          "size": 893
+        },
+        {
+          "name": "alexsmobs/caiman_spawns.json",
+          "url": "config/alexsmobs/caiman_spawns.json",
+          "sha1": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e",
+          "size": 291
+        },
+        {
+          "name": "alexsmobs/capuchin_monkey_spawns.json",
+          "url": "config/alexsmobs/capuchin_monkey_spawns.json",
+          "sha1": "aba297cc13e94b9bc3111e2918d0dcb4a9495cca",
+          "size": 1184
+        },
+        {
+          "name": "alexsmobs/catfish_spawns.json",
+          "url": "config/alexsmobs/catfish_spawns.json",
+          "sha1": "97c6120785c5e8c11bc2a3f8aee9dafaaf4aeddb",
+          "size": 1097
+        },
+        {
+          "name": "alexsmobs/cave_centipede_spawns.json",
+          "url": "config/alexsmobs/cave_centipede_spawns.json",
+          "sha1": "5d660cef1ae0a0b876657cfc05714f149e5b5c90",
+          "size": 2200
+        },
+        {
+          "name": "alexsmobs/cockroach_spawns.json",
+          "url": "config/alexsmobs/cockroach_spawns.json",
+          "sha1": "82e37fd704a5a10f7fa31b7b1107d2c1635887fe",
+          "size": 2085
+        },
+        {
+          "name": "alexsmobs/comb_jelly_spawns.json",
+          "url": "config/alexsmobs/comb_jelly_spawns.json",
+          "sha1": "ced1e6a35f9debfda11e579fdd8d45a340c05630",
+          "size": 414
+        },
+        {
+          "name": "alexsmobs/cosmaw_spawns.json",
+          "url": "config/alexsmobs/cosmaw_spawns.json",
+          "sha1": "59349c0f99f2b4f452326602e27ca30a56094c22",
+          "size": 371
+        },
+        {
+          "name": "alexsmobs/cosmic_cod_spawns.json",
+          "url": "config/alexsmobs/cosmic_cod_spawns.json",
+          "sha1": "6d2ab311e1f341a4874c15ae97e420562b035c3a",
+          "size": 139
+        },
+        {
+          "name": "alexsmobs/crimson_mosquito_spawns.json",
+          "url": "config/alexsmobs/crimson_mosquito_spawns.json",
+          "sha1": "630cc53b571699dfa586a266d4f1e140add4569f",
+          "size": 785
+        },
+        {
+          "name": "alexsmobs/crocodile_spawns.json",
+          "url": "config/alexsmobs/crocodile_spawns.json",
+          "sha1": "f22c0286d65b7d5a181fe43c144f4ef689e14cde",
+          "size": 1007
+        },
+        {
+          "name": "alexsmobs/crow_spawns.json",
+          "url": "config/alexsmobs/crow_spawns.json",
+          "sha1": "c0dc5411da87174f0039b79b6eef90d3d9b570cf",
+          "size": 5146
+        },
+        {
+          "name": "alexsmobs/devils_hole_pupfish_spawns.json",
+          "url": "config/alexsmobs/devils_hole_pupfish_spawns.json",
+          "sha1": "72c87498fe92bbaedac0dd8f17fe45cd39f10175",
+          "size": 145
+        },
+        {
+          "name": "alexsmobs/dropbear_spawns.json",
+          "url": "config/alexsmobs/dropbear_spawns.json",
+          "sha1": "ee7447520b865a4a312e3ff51c7f562f15a95c1e",
+          "size": 403
+        },
+        {
+          "name": "alexsmobs/elephant_spawns.json",
+          "url": "config/alexsmobs/elephant_spawns.json",
+          "sha1": "174b8af7c5357d42f6c3d7cf46000abf001026c9",
+          "size": 1163
+        },
+        {
+          "name": "alexsmobs/emu_spawns.json",
+          "url": "config/alexsmobs/emu_spawns.json",
+          "sha1": "1350a531f941af07b0c590c6b03eed79569df58b",
+          "size": 1661
+        },
+        {
+          "name": "alexsmobs/endergrade_spawns.json",
+          "url": "config/alexsmobs/endergrade_spawns.json",
+          "sha1": "876c128ed4fc894d61aab0eb2c735e64fa6dc417",
+          "size": 250
+        },
+        {
+          "name": "alexsmobs/enderiophage_spawns.json",
+          "url": "config/alexsmobs/enderiophage_spawns.json",
+          "sha1": "b343e2bd88950cc0f5db7041b1a7708ffb51c5fb",
+          "size": 603
+        },
+        {
+          "name": "alexsmobs/farseer.json",
+          "url": "config/alexsmobs/farseer.json",
+          "sha1": "c5b5e8f7e9abfe66d5afc97649eba09c4cfc1139",
+          "size": 266
+        },
+        {
+          "name": "alexsmobs/flutter_spawns.json",
+          "url": "config/alexsmobs/flutter_spawns.json",
+          "sha1": "c7d78e61a3ded23ae0af88640b4f6e3788d91462",
+          "size": 147
+        },
+        {
+          "name": "alexsmobs/flying_fish_spawns.json",
+          "url": "config/alexsmobs/flying_fish_spawns.json",
+          "sha1": "a2d8bb4c6f9b649b71187bbabd4ea33c0426bfa8",
+          "size": 716
+        },
+        {
+          "name": "alexsmobs/fly_spawns.json",
+          "url": "config/alexsmobs/fly_spawns.json",
+          "sha1": "72c87498fe92bbaedac0dd8f17fe45cd39f10175",
+          "size": 145
+        },
+        {
+          "name": "alexsmobs/frilled_shark_spawns.json",
+          "url": "config/alexsmobs/frilled_shark_spawns.json",
+          "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
+          "size": 146
+        },
+        {
+          "name": "alexsmobs/froststalker_spawns.json",
+          "url": "config/alexsmobs/froststalker_spawns.json",
+          "sha1": "707c1d78e16032957b1b047a3559006883a66aa6",
+          "size": 934
+        },
+        {
+          "name": "alexsmobs/gazelle_spawns.json",
+          "url": "config/alexsmobs/gazelle_spawns.json",
+          "sha1": "f7ef705fb7988c423de961ecf5b6b50207e7508c",
+          "size": 1050
+        },
+        {
+          "name": "alexsmobs/gelada_monkey_spawns.json",
+          "url": "config/alexsmobs/gelada_monkey_spawns.json",
+          "sha1": "c44a53e041c9ae8e3902fa56954db39ce3d5a45b",
+          "size": 1001
+        },
+        {
+          "name": "alexsmobs/giant_squid_spawns.json",
+          "url": "config/alexsmobs/giant_squid_spawns.json",
+          "sha1": "f39ce83ec705fea5b1e181947ea3d690961a3556",
+          "size": 146
+        },
+        {
+          "name": "alexsmobs/gorilla_spawns.json",
+          "url": "config/alexsmobs/gorilla_spawns.json",
+          "sha1": "dbdc0203d5147edd4d7b9483b05778b381839ee2",
+          "size": 1053
+        },
+        {
+          "name": "alexsmobs/grizzly_bear_spawns.json",
+          "url": "config/alexsmobs/grizzly_bear_spawns.json",
+          "sha1": "4a704c533746078e7338f88c29f181166a092606",
+          "size": 4020
+        },
+        {
+          "name": "alexsmobs/guster_spawns.json",
+          "url": "config/alexsmobs/guster_spawns.json",
+          "sha1": "53d844c2dd6d3115cfe9a080261001f8decea616",
+          "size": 1132
+        },
+        {
+          "name": "alexsmobs/hammerhead_shark_spawns.json",
+          "url": "config/alexsmobs/hammerhead_shark_spawns.json",
+          "sha1": "771d7ce1bcd62741842c859ac372703137baf3e5",
+          "size": 254
+        },
+        {
+          "name": "alexsmobs/hummingbird_spawns.json",
+          "url": "config/alexsmobs/hummingbird_spawns.json",
+          "sha1": "87a5239ac83733283bda909fd7247cc8bdb7f68a",
+          "size": 3029
+        },
+        {
+          "name": "alexsmobs/jerboa_spawns.json",
+          "url": "config/alexsmobs/jerboa_spawns.json",
+          "sha1": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a",
+          "size": 1252
+        },
+        {
+          "name": "alexsmobs/kangaroo_spawns.json",
+          "url": "config/alexsmobs/kangaroo_spawns.json",
+          "sha1": "1350a531f941af07b0c590c6b03eed79569df58b",
+          "size": 1661
+        },
+        {
+          "name": "alexsmobs/komodo_dragon_spawns.json",
+          "url": "config/alexsmobs/komodo_dragon_spawns.json",
+          "sha1": "878fc300de29d16d3bdbb5ec7f02cc2c1cce77ef",
+          "size": 775
+        },
+        {
+          "name": "alexsmobs/laviathan_spawns.json",
+          "url": "config/alexsmobs/laviathan_spawns.json",
+          "sha1": "b35947925d599eb04ee7075af6810dbe7b515052",
+          "size": 142
+        },
+        {
+          "name": "alexsmobs/leafcutter_anthill_spawns.json",
+          "url": "config/alexsmobs/leafcutter_anthill_spawns.json",
+          "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
+          "size": 1166
+        },
+        {
+          "name": "alexsmobs/lobster_spawns.json",
+          "url": "config/alexsmobs/lobster_spawns.json",
+          "sha1": "bfa5934e707e1a5fac743d40eede8a78dae13ff1",
+          "size": 398
+        },
+        {
+          "name": "alexsmobs/maned_wolf_spawns.json",
+          "url": "config/alexsmobs/maned_wolf_spawns.json",
+          "sha1": "e7262e3a8d7dea88c22540ac36efd9b82524384e",
+          "size": 1037
+        },
+        {
+          "name": "alexsmobs/mantis_shrimp_spawns.json",
+          "url": "config/alexsmobs/mantis_shrimp_spawns.json",
+          "sha1": "72ad572808fccf9db8b712f10c183d2a4b7553f1",
+          "size": 385
+        },
+        {
+          "name": "alexsmobs/mimicube_spawns.json",
+          "url": "config/alexsmobs/mimicube_spawns.json",
+          "sha1": "cd826a993f60f9e7d48610c8d2ee7fe5f9742759",
+          "size": 365
+        },
+        {
+          "name": "alexsmobs/mimic_octopus_spawns.json",
+          "url": "config/alexsmobs/mimic_octopus_spawns.json",
+          "sha1": "5862e4f48b9ff0a91ae853b372ff39c1fdc1d811",
+          "size": 373
+        },
+        {
+          "name": "alexsmobs/moose_spawns.json",
+          "url": "config/alexsmobs/moose_spawns.json",
+          "sha1": "0338509e62946b67dab42a836e3f7173816d7e60",
+          "size": 2291
+        },
+        {
+          "name": "alexsmobs/mudskipper_spawns.json",
+          "url": "config/alexsmobs/mudskipper_spawns.json",
+          "sha1": "2dc9908d8f42e786d38bbdaba6a4ea5249dfb13e",
+          "size": 291
+        },
+        {
+          "name": "alexsmobs/mungus_spawns.json",
+          "url": "config/alexsmobs/mungus_spawns.json",
+          "sha1": "984700d0723c99153ae6fe1ea99d960f9a9c2ee1",
+          "size": 486
+        },
+        {
+          "name": "alexsmobs/murmur.json",
+          "url": "config/alexsmobs/murmur.json",
+          "sha1": "5d660cef1ae0a0b876657cfc05714f149e5b5c90",
+          "size": 2200
+        },
+        {
+          "name": "alexsmobs/orca_spawns.json",
+          "url": "config/alexsmobs/orca_spawns.json",
+          "sha1": "146e692c90be265b1613fd9b1408f8ade11664e4",
+          "size": 255
+        },
+        {
+          "name": "alexsmobs/platypus_spawns.json",
+          "url": "config/alexsmobs/platypus_spawns.json",
+          "sha1": "9eab8f02129434149d2987a9cc819e9ca7e5b7fe",
+          "size": 625
+        },
+        {
+          "name": "alexsmobs/potoo_spawns.json",
+          "url": "config/alexsmobs/potoo_spawns.json",
+          "sha1": "426052ea6d093fe878779db6e1951a8accec897f",
+          "size": 148
+        },
+        {
+          "name": "alexsmobs/raccoon_spawns.json",
+          "url": "config/alexsmobs/raccoon_spawns.json",
+          "sha1": "aed625d8aa3416b513dc42f69c63804bbd5f4844",
+          "size": 3712
+        },
+        {
+          "name": "alexsmobs/rain_frog_spawns.json",
+          "url": "config/alexsmobs/rain_frog_spawns.json",
+          "sha1": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a",
+          "size": 1252
+        },
+        {
+          "name": "alexsmobs/rattlesnake_spawns.json",
+          "url": "config/alexsmobs/rattlesnake_spawns.json",
+          "sha1": "19d14f488a5838da1ce23d99c992daf473b85b71",
+          "size": 1646
+        },
+        {
+          "name": "alexsmobs/rhinoceros_spawns.json",
+          "url": "config/alexsmobs/rhinoceros_spawns.json",
+          "sha1": "f7ef705fb7988c423de961ecf5b6b50207e7508c",
+          "size": 1050
+        },
+        {
+          "name": "alexsmobs/roadrunner_spawns.json",
+          "url": "config/alexsmobs/roadrunner_spawns.json",
+          "sha1": "19d14f488a5838da1ce23d99c992daf473b85b71",
+          "size": 1646
+        },
+        {
+          "name": "alexsmobs/rocky_roller_spawns.json",
+          "url": "config/alexsmobs/rocky_roller_spawns.json",
+          "sha1": "f31c14bed619ed97480a4aedc5aa194f4c1370ca",
+          "size": 673
+        },
+        {
+          "name": "alexsmobs/seagull_spawns.json",
+          "url": "config/alexsmobs/seagull_spawns.json",
+          "sha1": "c4e332410fcd6b13ec92c7a15f142e5155cb5274",
+          "size": 1296
+        },
+        {
+          "name": "alexsmobs/seal_spawns.json",
+          "url": "config/alexsmobs/seal_spawns.json",
+          "sha1": "5ba26fd7341af3fde7f8d10e5f02610e50019c7e",
+          "size": 877
+        },
+        {
+          "name": "alexsmobs/shoebill_spawns.json",
+          "url": "config/alexsmobs/shoebill_spawns.json",
+          "sha1": "8f030f0a1139b65cb6e92e4984c48cdd10ffcbaa",
+          "size": 623
+        },
+        {
+          "name": "alexsmobs/skelewag_spawns.json",
+          "url": "config/alexsmobs/skelewag_spawns.json",
+          "sha1": "75a57df134990d2a97421412ee78f9111c38d41b",
+          "size": 374
+        },
+        {
+          "name": "alexsmobs/skreecher.json",
+          "url": "config/alexsmobs/skreecher.json",
+          "sha1": "740c686d3f6779fd3489b45d7b2efd266d61a448",
+          "size": 276
+        },
+        {
+          "name": "alexsmobs/skunk_spawns.json",
+          "url": "config/alexsmobs/skunk_spawns.json",
+          "sha1": "0076cc9f728c452cf22a59943a7fae1db2c71f26",
+          "size": 2037
+        },
+        {
+          "name": "alexsmobs/snow_leopard_spawns.json",
+          "url": "config/alexsmobs/snow_leopard_spawns.json",
+          "sha1": "969c78799fd70bc5ad20ce46a157b14ac4b7d6df",
+          "size": 1808
+        },
+        {
+          "name": "alexsmobs/soul_vulture_spawns.json",
+          "url": "config/alexsmobs/soul_vulture_spawns.json",
+          "sha1": "d5308c6dc90f1a0d12707301407de4ff104b09d5",
+          "size": 523
+        },
+        {
+          "name": "alexsmobs/spectre_spawns.json",
+          "url": "config/alexsmobs/spectre_spawns.json",
+          "sha1": "876c128ed4fc894d61aab0eb2c735e64fa6dc417",
+          "size": 250
+        },
+        {
+          "name": "alexsmobs/straddler_spawns.json",
+          "url": "config/alexsmobs/straddler_spawns.json",
+          "sha1": "e4c76844b021e21b41fb5c9576bf09312c77b845",
+          "size": 664
+        },
+        {
+          "name": "alexsmobs/stradpole_spawns.json",
+          "url": "config/alexsmobs/stradpole_spawns.json",
+          "sha1": "e4c76844b021e21b41fb5c9576bf09312c77b845",
+          "size": 664
+        },
+        {
+          "name": "alexsmobs/sugar_glider_spawns.json",
+          "url": "config/alexsmobs/sugar_glider_spawns.json",
+          "sha1": "62d2952af8a99284a2072613584475532fa3976d",
+          "size": 418
+        },
+        {
+          "name": "alexsmobs/sunbird_spawns.json",
+          "url": "config/alexsmobs/sunbird_spawns.json",
+          "sha1": "d00d854a7a859be448d448854a489fb4bf5b3754",
+          "size": 3925
+        },
+        {
+          "name": "alexsmobs/tarantula_hawk_spawns.json",
+          "url": "config/alexsmobs/tarantula_hawk_spawns.json",
+          "sha1": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a",
+          "size": 1252
+        },
+        {
+          "name": "alexsmobs/tasmanian_devil_spawns.json",
+          "url": "config/alexsmobs/tasmanian_devil_spawns.json",
+          "sha1": "167c8f350e93cdfe00e85956dfa7fe40363cda1d",
+          "size": 1908
+        },
+        {
+          "name": "alexsmobs/terrapin_spawns.json",
+          "url": "config/alexsmobs/terrapin_spawns.json",
+          "sha1": "9eab8f02129434149d2987a9cc819e9ca7e5b7fe",
+          "size": 625
+        },
+        {
+          "name": "alexsmobs/tiger_spawns.json",
+          "url": "config/alexsmobs/tiger_spawns.json",
+          "sha1": "50c690955ef10c27602d6cc9a146721998408c20",
+          "size": 1209
+        },
+        {
+          "name": "alexsmobs/toucan_spawns.json",
+          "url": "config/alexsmobs/toucan_spawns.json",
+          "sha1": "983d5b8a09faf49e73d82af7e3fb0d6d8a28ec4d",
+          "size": 1166
+        },
+        {
+          "name": "alexsmobs/triops_spawns.json",
+          "url": "config/alexsmobs/triops_spawns.json",
+          "sha1": "cfbc84bd92bb5e0bbc48c76264684b571c02b03a",
+          "size": 1252
+        },
+        {
+          "name": "alexsmobs/tusklin_spawns.json",
+          "url": "config/alexsmobs/tusklin_spawns.json",
+          "sha1": "34c622e3e5c3839d628085fc1cf0fdc4d93d0e5a",
+          "size": 882
+        },
+        {
+          "name": "alexsmobs/underminer.json",
+          "url": "config/alexsmobs/underminer.json",
+          "sha1": "82e37fd704a5a10f7fa31b7b1107d2c1635887fe",
+          "size": 2085
+        },
+        {
+          "name": "alexsmobs/void_worm_spawns.json",
+          "url": "config/alexsmobs/void_worm_spawns.json",
+          "sha1": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4",
+          "size": 18
+        },
+        {
+          "name": "alexsmobs/warped_mosco_spawns.json",
+          "url": "config/alexsmobs/warped_mosco_spawns.json",
+          "sha1": "1ae814f47278ae5e83f93b711cb1b22df42fa5c4",
+          "size": 18
+        },
+        {
+          "name": "alexsmobs/warped_toad_spawns.json",
+          "url": "config/alexsmobs/warped_toad_spawns.json",
+          "sha1": "5cd292af241f4ee8699dc810bccdcfe29135fcc9",
+          "size": 661
+        },
+        {
+          "name": "bettercombat/fallback_compatibility.json",
+          "url": "config/bettercombat/fallback_compatibility.json",
+          "sha1": "8efde77c49f6cd7c4035ee3f554c25f63532335a",
+          "size": 2995
+        },
+        {
+          "name": "biomeswevegone/mob_spawn.json",
+          "url": "config/biomeswevegone/mob_spawn.json",
+          "sha1": "07e249aa403139f9f8050a01742ff5e16848282e",
+          "size": 62
+        },
+        {
+          "name": "biomeswevegone/trades.json",
+          "url": "config/biomeswevegone/trades.json",
+          "sha1": "17b020f037c64fb06acede658ba1ad0fb3aefcc2",
+          "size": 639
+        },
+        {
+          "name": "cataclysm/amethyst_crab_spawns.json",
+          "url": "config/cataclysm/amethyst_crab_spawns.json",
+          "sha1": "c7d78e61a3ded23ae0af88640b4f6e3788d91462",
+          "size": 147
+        },
+        {
+          "name": "cataclysm/coral_golem_spawns.json",
+          "url": "config/cataclysm/coral_golem_spawns.json",
+          "sha1": "7e0ab235b874a78726c0c423e3786172f980e5a8",
+          "size": 926
+        },
+        {
+          "name": "cataclysm/deepling_angler_spawns.json",
+          "url": "config/cataclysm/deepling_angler_spawns.json",
+          "sha1": "7e0ab235b874a78726c0c423e3786172f980e5a8",
+          "size": 926
+        },
+        {
+          "name": "cataclysm/deepling_brute_spawns.json",
+          "url": "config/cataclysm/deepling_brute_spawns.json",
+          "sha1": "7e0ab235b874a78726c0c423e3786172f980e5a8",
+          "size": 926
+        },
+        {
+          "name": "cataclysm/deepling_priest_spawns.json",
+          "url": "config/cataclysm/deepling_priest_spawns.json",
+          "sha1": "7e0ab235b874a78726c0c423e3786172f980e5a8",
+          "size": 926
+        },
+        {
+          "name": "cataclysm/deepling_spawns.json",
+          "url": "config/cataclysm/deepling_spawns.json",
+          "sha1": "7e0ab235b874a78726c0c423e3786172f980e5a8",
+          "size": 926
+        },
+        {
+          "name": "cataclysm/deepling_warlock_spawns.json",
+          "url": "config/cataclysm/deepling_warlock_spawns.json",
+          "sha1": "7e0ab235b874a78726c0c423e3786172f980e5a8",
+          "size": 926
+        },
+        {
+          "name": "cataclysm/koboleton_spawns.json",
+          "url": "config/cataclysm/koboleton_spawns.json",
+          "sha1": "c3e6b637ebfa3e6d47d3f79486fade227823de4b",
+          "size": 474
+        },
+        {
+          "name": "combatroll/enchantments.json",
+          "url": "config/combatroll/enchantments.json",
+          "sha1": "ccc6c366eb922b5a93059cf38e40bdc0d6bc202c",
+          "size": 396
+        },
+        {
+          "name": "combatroll/hud_config.json",
+          "url": "config/combatroll/hud_config.json",
+          "sha1": "4f090bcdf90f6657e76e89f6925c8a65705d6f0d",
+          "size": 120
+        },
+        {
+          "name": "config/armoroftheages.json",
+          "url": "config/config/armoroftheages.json",
+          "sha1": "d268d37d5eb792c51592048525efd902e4d299ec",
+          "size": 2309
+        },
+        {
+          "name": "CoroUtil/General.toml",
+          "url": "config/CoroUtil/General.toml",
+          "sha1": "5591e4868d6f01b3c66c308869f1f180728b2eef",
+          "size": 133
+        },
+        {
+          "name": "dawnera/mobs/aegirocassis.json",
+          "url": "config/dawnera/mobs/aegirocassis.json",
+          "sha1": "096c037632c63b96df9a7604f3e72efdc0419765",
+          "size": 1395
+        },
+        {
+          "name": "dawnera/mobs/alligator_gar.json",
+          "url": "config/dawnera/mobs/alligator_gar.json",
+          "sha1": "c87af2a073cc4d0d7779ee876ade1af8e41b83f4",
+          "size": 4603
+        },
+        {
+          "name": "dawnera/mobs/ceratosaurus.json",
+          "url": "config/dawnera/mobs/ceratosaurus.json",
+          "sha1": "3cc940fb3a13c9ddf1eb34acce2cbeedac7258f0",
+          "size": 6737
+        },
+        {
+          "name": "dawnera/mobs/coelacanth.json",
+          "url": "config/dawnera/mobs/coelacanth.json",
+          "sha1": "8c3295e28f1f6c20a89d8b8e7de38e92e549cdb0",
+          "size": 3619
+        },
+        {
+          "name": "dawnera/mobs/deinonychus.json",
+          "url": "config/dawnera/mobs/deinonychus.json",
+          "sha1": "89785701518e8794724beebb330c13de82398591",
+          "size": 6996
+        },
+        {
+          "name": "dawnera/mobs/diabloceratops.json",
+          "url": "config/dawnera/mobs/diabloceratops.json",
+          "sha1": "b0b44ba350391fc3152aa60bd0c4378178b8c6f2",
+          "size": 8027
+        },
+        {
+          "name": "dawnera/mobs/dimorphodon.json",
+          "url": "config/dawnera/mobs/dimorphodon.json",
+          "sha1": "a86a51481aa1ff0e7409d3d414f0bc33e6d04c2d",
+          "size": 5465
+        },
+        {
+          "name": "dawnera/mobs/diplocaulus.json",
+          "url": "config/dawnera/mobs/diplocaulus.json",
+          "sha1": "a881f631c21492a32ab2b85d0db7b8ef1e68ab64",
+          "size": 4695
+        },
+        {
+          "name": "dawnera/mobs/dodo.json",
+          "url": "config/dawnera/mobs/dodo.json",
+          "sha1": "b4f4b9a6994db953656ec1473e4bdb46540ddc8e",
+          "size": 4274
+        },
+        {
+          "name": "dawnera/mobs/dunkleosteus.json",
+          "url": "config/dawnera/mobs/dunkleosteus.json",
+          "sha1": "be866b5a99be985b2db8b25c96cebd1a3b97f2da",
+          "size": 5961
+        },
+        {
+          "name": "dawnera/mobs/mixosaurus.json",
+          "url": "config/dawnera/mobs/mixosaurus.json",
+          "sha1": "d8d8be4da271deb90ab854cb8ea2719272b7e4e3",
+          "size": 4325
+        },
+        {
+          "name": "dawnera/mobs/pond_snail.json",
+          "url": "config/dawnera/mobs/pond_snail.json",
+          "sha1": "4ee0833f973706cd938245ab301b2554c4f4f864",
+          "size": 1174
+        },
+        {
+          "name": "dawnera/mobs/psittacosaurus.json",
+          "url": "config/dawnera/mobs/psittacosaurus.json",
+          "sha1": "7913f1bd993a7168ad03f1af75de9c093e11f865",
+          "size": 6354
+        },
+        {
+          "name": "dawnera/mobs/sabertooth_salmon.json",
+          "url": "config/dawnera/mobs/sabertooth_salmon.json",
+          "sha1": "0ddf717731b81233894d6c2579252f9d409f2a13",
+          "size": 4836
+        },
+        {
+          "name": "dawnera/mobs/sachicasaurus.json",
+          "url": "config/dawnera/mobs/sachicasaurus.json",
+          "sha1": "1a3f48d2bd4b4b5209436f483e1f22c536682d76",
+          "size": 5026
+        },
+        {
+          "name": "dawnera/mobs/struthiomimus.json",
+          "url": "config/dawnera/mobs/struthiomimus.json",
+          "sha1": "1c551bc065db9a8e41e9e240e7e2e757cef982f0",
+          "size": 6590
+        },
+        {
+          "name": "dawnera/mobs/sturgeon.json",
+          "url": "config/dawnera/mobs/sturgeon.json",
+          "sha1": "492eb1c6c99eaa1fc535d57788be3b9917c92a1b",
+          "size": 4593
+        },
+        {
+          "name": "dawnera/mobs/torvosaurus.json",
+          "url": "config/dawnera/mobs/torvosaurus.json",
+          "sha1": "d972597eb7342a4414d620c87c2b2e22e3013174",
+          "size": 6830
+        },
+        {
+          "name": "dawnera/mobs/triceratops.json",
+          "url": "config/dawnera/mobs/triceratops.json",
+          "sha1": "52c660b70be85d2274f9789644a264f64459d9aa",
+          "size": 8074
+        },
+        {
+          "name": "dawnera/mobs/tyrannosaurus.json",
+          "url": "config/dawnera/mobs/tyrannosaurus.json",
+          "sha1": "f54e2a570775e5bcd3b3d96766bc6cc17f80cf7d",
+          "size": 7798
+        },
+        {
+          "name": "dawnera/mobs/worm.json",
+          "url": "config/dawnera/mobs/worm.json",
+          "sha1": "50bfea5dca18e4c80838002155f56058e8eb96bc",
+          "size": 1216
+        },
+        {
+          "name": "easy_npc/npc_base.cfg",
+          "url": "config/easy_npc/npc_base.cfg",
+          "sha1": "e0e335cc39094256f00df821e16de6fce58ee55c",
+          "size": 215
+        },
+        {
+          "name": "easy_npc/render_entity_type_support.cfg",
+          "url": "config/easy_npc/render_entity_type_support.cfg",
+          "sha1": "d4d76446788e7a969133b8c17d8cc16e6d195e0c",
+          "size": 33748
+        },
+        {
+          "name": "easy_npc/spawner_type.cfg",
+          "url": "config/easy_npc/spawner_type.cfg",
+          "sha1": "caee240e3a4a864eda3154e699f8a23935133ed1",
+          "size": 964
+        },
+        {
+          "name": "easy_npc/user_defined_npcs.json",
+          "url": "config/easy_npc/user_defined_npcs.json",
+          "sha1": "eae7bd4b2e953f2acaee4fadcb341371450f593a",
+          "size": 465
+        },
+        {
+          "name": "easy_npc/pose/humanoid_slim/humanoid_slim_poses.json",
+          "url": "config/easy_npc/pose/humanoid_slim/humanoid_slim_poses.json",
+          "sha1": "8a763eef04c7b079561da34fbd7ff200dfc0c9f1",
+          "size": 3619
+        },
+        {
+          "name": "fabric/indigo-renderer.properties",
+          "url": "config/fabric/indigo-renderer.properties",
+          "sha1": "48b26790870613a3e137c21b38f14f33270dba47",
+          "size": 290
+        },
+        {
+          "name": "fancymenu/customizablemenus.txt",
+          "url": "config/fancymenu/customizablemenus.txt",
+          "sha1": "e6ffb2badf3910d3152b706e0e369cc6f3a84c42",
+          "size": 76
+        },
+        {
+          "name": "fancymenu/custom_gui_screens.txt",
+          "url": "config/fancymenu/custom_gui_screens.txt",
+          "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
+          "size": 51
+        },
+        {
+          "name": "fancymenu/legacy_checklist.txt",
+          "url": "config/fancymenu/legacy_checklist.txt",
+          "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
+          "size": 42
+        },
+        {
+          "name": "fancymenu/options.txt",
+          "url": "config/fancymenu/options.txt",
+          "sha1": "cb1dd14dbe34e97433b062e7bf023d83f1368ccd",
+          "size": 2128
+        },
+        {
+          "name": "fancymenu/customization/title_screen_layout.txt",
+          "url": "config/fancymenu/customization/title_screen_layout.txt",
+          "sha1": "2ea88f88637cd45aa75715879dad1ae7eadd241b",
+          "size": 40393
+        },
+        {
+          "name": "fancymenu/ui_themes/dark.json",
+          "url": "config/fancymenu/ui_themes/dark.json",
+          "sha1": "22cefe5b52927d21f68b7e1537f52fba7ec6cca1",
+          "size": 6218
+        },
+        {
+          "name": "fancymenu/ui_themes/light.json",
+          "url": "config/fancymenu/ui_themes/light.json",
+          "sha1": "800a6df3553074fe5474a9dc43d0ce0fdeb8f131",
+          "size": 6220
+        },
+        {
+          "name": "forgematica/forgematica_game44-fr.hosterfy.com_20402.json",
+          "url": "config/forgematica/forgematica_game44-fr.hosterfy.com_20402.json",
+          "sha1": "af8ee9713b815975fe500bc58d13cd6424fb4895",
+          "size": 95
+        },
+        {
+          "name": "forgematica/forgematica_game44-fr.hosterfy.com_20402_dim_minecraft_overworld.json",
+          "url": "config/forgematica/forgematica_game44-fr.hosterfy.com_20402_dim_minecraft_overworld.json",
+          "sha1": "1fb16d44a7ac2273a078a7f02033f8b57845bb98",
+          "size": 734
+        },
+        {
+          "name": "hordes/hordes-info.json",
+          "url": "config/hordes/hordes-info.json",
+          "sha1": "28d0d37a0160a5cc8388a0a65a2eb28228e63d1d",
+          "size": 494
+        },
+        {
+          "name": "hordes/assets/hordes/sounds.json",
+          "url": "config/hordes/assets/hordes/sounds.json",
+          "sha1": "7dafab529a7df3185be39f67ad2e382bdbda4ca2",
+          "size": 567
+        },
+        {
+          "name": "hordes/assets/hordes/lang/en_us.json",
+          "url": "config/hordes/assets/hordes/lang/en_us.json",
+          "sha1": "04e4cf5f6521d772d7b81f12a6985b4547ebc91f",
+          "size": 1565
+        },
+        {
+          "name": "hordes/assets/hordes/lang/ru_ru.json",
+          "url": "config/hordes/assets/hordes/lang/ru_ru.json",
+          "sha1": "8d8a954fc436962fb291aeae84ee039f87f818de",
+          "size": 2049
+        },
+        {
+          "name": "hordes/assets/hordes/lang/zh_cn.json",
+          "url": "config/hordes/assets/hordes/lang/zh_cn.json",
+          "sha1": "97eb9eb14041efe021b62bdea3ce4e6162a6133c",
+          "size": 1560
+        },
+        {
+          "name": "hordes/data/hordes/horde_data/immune_wearables.json",
+          "url": "config/hordes/data/hordes/horde_data/immune_wearables.json",
+          "sha1": "9a706ba93739b101bdf4f7bc3725e6a1187c0fbf",
+          "size": 1774
+        },
+        {
+          "name": "hordes/data/hordes/horde_data/immunity_items.json",
+          "url": "config/hordes/data/hordes/horde_data/immunity_items.json",
+          "sha1": "3059d4c37b05fd98aabfafb759aa0f76e30f8784",
+          "size": 78
+        },
+        {
+          "name": "hordes/data/hordes/horde_data/infection_conversions.json",
+          "url": "config/hordes/data/hordes/horde_data/infection_conversions.json",
+          "sha1": "9dffd661cdc0e05b0fd9cd4aad2f6acd9ebe0c4a",
+          "size": 2419
+        },
+        {
+          "name": "hordes/data/hordes/horde_data/scripts/default.json",
+          "url": "config/hordes/data/hordes/horde_data/scripts/default.json",
+          "sha1": "086367c3ce873e55af3e93c9994f37c9a9563bd4",
+          "size": 1082
+        },
+        {
+          "name": "hordes/data/hordes/horde_data/tables/default.json",
+          "url": "config/hordes/data/hordes/horde_data/tables/default.json",
+          "sha1": "22825a9462d3c5c13801e2269552e7458bd54112",
+          "size": 483
+        },
+        {
+          "name": "hordes/data/hordes/horde_data/tables/drowned.json",
+          "url": "config/hordes/data/hordes/horde_data/tables/drowned.json",
+          "sha1": "f86d27922a1d3cb59502c2ebea1495d39e65e5f2",
+          "size": 99
+        },
+        {
+          "name": "hordes/data/hordes/horde_data/tables/illagers.json",
+          "url": "config/hordes/data/hordes/horde_data/tables/illagers.json",
+          "sha1": "1d80ba1a613e8cc554e45281046cb1ad326c800f",
+          "size": 859
+        },
+        {
+          "name": "hordes/data/hordes/horde_data/tables/mixed_mobs.json",
+          "url": "config/hordes/data/hordes/horde_data/tables/mixed_mobs.json",
+          "sha1": "c3049779362cfdfc1993357e4778f802994411d7",
+          "size": 1330
+        },
+        {
+          "name": "hordes/data/hordes/horde_data/tables/skeletons.json",
+          "url": "config/hordes/data/hordes/horde_data/tables/skeletons.json",
+          "sha1": "0e07075ef4c7e352c2b9ea8c695acaf18f9d27bc",
+          "size": 601
+        },
+        {
+          "name": "hordes/data/hordes/tags/entity_types/infection_entities.json",
+          "url": "config/hordes/data/hordes/tags/entity_types/infection_entities.json",
+          "sha1": "a9639155812fa10bc65aaa6390dde418406fc4d4",
+          "size": 306
+        },
+        {
+          "name": "hordes/data/hordes/tags/items/infection_cures.json",
+          "url": "config/hordes/data/hordes/tags/items/infection_cures.json",
+          "sha1": "dae4fa45d062d3554f1f2ecd82abadd89bebbb6a",
+          "size": 116
+        },
+        {
+          "name": "hordes/data/hordes/tags/worldgen/biome/husk_player_spawn_biomes.json",
+          "url": "config/hordes/data/hordes/tags/worldgen/biome/husk_player_spawn_biomes.json",
+          "sha1": "f0646b8b9b2ee3b39bab4c30265cc85cec90aa3b",
+          "size": 100
+        },
+        {
+          "name": "iceandfire/amphithere_biomes.json",
+          "url": "config/iceandfire/amphithere_biomes.json",
+          "sha1": "e4df6d0ed5872551efda03237a5d134d57541c56",
+          "size": 767
+        },
+        {
+          "name": "iceandfire/cockatrice_biomes.json",
+          "url": "config/iceandfire/cockatrice_biomes.json",
+          "sha1": "44436119dc64fa20c9e05cf14adb4e3283cc31f6",
+          "size": 907
+        },
+        {
+          "name": "iceandfire/cyclops_cave_biomes.json",
+          "url": "config/iceandfire/cyclops_cave_biomes.json",
+          "sha1": "d850ee156167a28c35c332ce06b12798a760409d",
+          "size": 610
+        },
+        {
+          "name": "iceandfire/deathworm_biomes.json",
+          "url": "config/iceandfire/deathworm_biomes.json",
+          "sha1": "1d2e7db76a423bf59301f99fde557c8f29f52fbe",
+          "size": 1369
+        },
+        {
+          "name": "iceandfire/desert_myrmex_biomes.json",
+          "url": "config/iceandfire/desert_myrmex_biomes.json",
+          "sha1": "1d2e7db76a423bf59301f99fde557c8f29f52fbe",
+          "size": 1369
+        },
+        {
+          "name": "iceandfire/fire_dragon_biomes.json",
+          "url": "config/iceandfire/fire_dragon_biomes.json",
+          "sha1": "9093ae59a96c84e02fd93deed23ef9ecd0739025",
+          "size": 2113
+        },
+        {
+          "name": "iceandfire/fire_dragon_cave_biomes.json",
+          "url": "config/iceandfire/fire_dragon_cave_biomes.json",
+          "sha1": "9093ae59a96c84e02fd93deed23ef9ecd0739025",
+          "size": 2113
+        },
+        {
+          "name": "iceandfire/fire_dragon_skeleton_biomes.json",
+          "url": "config/iceandfire/fire_dragon_skeleton_biomes.json",
+          "sha1": "1d2e7db76a423bf59301f99fde557c8f29f52fbe",
+          "size": 1369
+        },
+        {
+          "name": "iceandfire/fire_lily_biomes.json",
+          "url": "config/iceandfire/fire_lily_biomes.json",
+          "sha1": "8d224d425274d4529251f79a68138025521ec2f8",
+          "size": 277
+        },
+        {
+          "name": "iceandfire/forest_troll_biomes.json",
+          "url": "config/iceandfire/forest_troll_biomes.json",
+          "sha1": "df9509b529a8e53e8be079dae9189976a70dd679",
+          "size": 255
+        },
+        {
+          "name": "iceandfire/frost_lily_biomes.json",
+          "url": "config/iceandfire/frost_lily_biomes.json",
+          "sha1": "abb5eac1280ec5b246a0553416b874e8374f405a",
+          "size": 624
+        },
+        {
+          "name": "iceandfire/gorgon_temple_biomes.json",
+          "url": "config/iceandfire/gorgon_temple_biomes.json",
+          "sha1": "d850ee156167a28c35c332ce06b12798a760409d",
+          "size": 610
+        },
+        {
+          "name": "iceandfire/graveyard_biomes.json",
+          "url": "config/iceandfire/graveyard_biomes.json",
+          "sha1": "d8483f1863759f5dbd71d0644e08ac1ce711152c",
+          "size": 467
+        },
+        {
+          "name": "iceandfire/hippocampus_biomes.json",
+          "url": "config/iceandfire/hippocampus_biomes.json",
+          "sha1": "b8e516f1cbf6a55f39488503ceaa54395233de2c",
+          "size": 254
+        },
+        {
+          "name": "iceandfire/hippogryph_biomes.json",
+          "url": "config/iceandfire/hippogryph_biomes.json",
+          "sha1": "ca50cc2ac90994299b49d5cebb15ef9434946dd8",
+          "size": 855
+        },
+        {
+          "name": "iceandfire/hippogryph_black_biomes.json",
+          "url": "config/iceandfire/hippogryph_black_biomes.json",
+          "sha1": "900ec729e35967f6d8f726e4d98b765be3d17c8f",
+          "size": 279
+        },
+        {
+          "name": "iceandfire/hippogryph_brown_biomes.json",
+          "url": "config/iceandfire/hippogryph_brown_biomes.json",
+          "sha1": "dca8d143a3519c52cfb34d430df6b58c99e0ceae",
+          "size": 486
+        },
+        {
+          "name": "iceandfire/hippogryph_chestnut_biomes.json",
+          "url": "config/iceandfire/hippogryph_chestnut_biomes.json",
+          "sha1": "f2783fb6c7a15329e625506ca537141ef5e6574e",
+          "size": 601
+        },
+        {
+          "name": "iceandfire/hippogryph_creamy_biomes.json",
+          "url": "config/iceandfire/hippogryph_creamy_biomes.json",
+          "sha1": "c83e928288ef2d8176676219f48f7fcc32e989b4",
+          "size": 286
+        },
+        {
+          "name": "iceandfire/hippogryph_dark_brown_biomes.json",
+          "url": "config/iceandfire/hippogryph_dark_brown_biomes.json",
+          "sha1": "0e2ae546ff20dec3473bcdbcda41580268286a62",
+          "size": 1050
+        },
+        {
+          "name": "iceandfire/hippogryph_gray_biomes.json",
+          "url": "config/iceandfire/hippogryph_gray_biomes.json",
+          "sha1": "c5ffe03801cb200791a69b98ebbd20718679a591",
+          "size": 418
+        },
+        {
+          "name": "iceandfire/hippogryph_white_biomes.json",
+          "url": "config/iceandfire/hippogryph_white_biomes.json",
+          "sha1": "b48fb3d91c94cb850f029e006addf04d461ed7a1",
+          "size": 1249
+        },
+        {
+          "name": "iceandfire/hydra_cave_biomes.json",
+          "url": "config/iceandfire/hydra_cave_biomes.json",
+          "sha1": "018594f5f67a4641a9272737f62d8d03a3b9ac24",
+          "size": 747
+        },
+        {
+          "name": "iceandfire/ice_dragon_biomes.json",
+          "url": "config/iceandfire/ice_dragon_biomes.json",
+          "sha1": "c448c995c4c2ccd45d14bfdaead62cb4a2767607",
+          "size": 534
+        },
+        {
+          "name": "iceandfire/ice_dragon_cave_biomes.json",
+          "url": "config/iceandfire/ice_dragon_cave_biomes.json",
+          "sha1": "c448c995c4c2ccd45d14bfdaead62cb4a2767607",
+          "size": 534
+        },
+        {
+          "name": "iceandfire/ice_dragon_skeleton_biomes.json",
+          "url": "config/iceandfire/ice_dragon_skeleton_biomes.json",
+          "sha1": "abb5eac1280ec5b246a0553416b874e8374f405a",
+          "size": 624
+        },
+        {
+          "name": "iceandfire/jungle_myrmex_biomes.json",
+          "url": "config/iceandfire/jungle_myrmex_biomes.json",
+          "sha1": "e4df6d0ed5872551efda03237a5d134d57541c56",
+          "size": 767
+        },
+        {
+          "name": "iceandfire/lightning_dragon_biomes.json",
+          "url": "config/iceandfire/lightning_dragon_biomes.json",
+          "sha1": "e7c66648be52c6c829bf3a54d36075c16330bf87",
+          "size": 1748
+        },
+        {
+          "name": "iceandfire/lightning_dragon_cave_biomes.json",
+          "url": "config/iceandfire/lightning_dragon_cave_biomes.json",
+          "sha1": "e7c66648be52c6c829bf3a54d36075c16330bf87",
+          "size": 1748
+        },
+        {
+          "name": "iceandfire/lightning_dragon_skeleton_biomes.json",
+          "url": "config/iceandfire/lightning_dragon_skeleton_biomes.json",
+          "sha1": "44436119dc64fa20c9e05cf14adb4e3283cc31f6",
+          "size": 907
+        },
+        {
+          "name": "iceandfire/lightning_lily_biomes.json",
+          "url": "config/iceandfire/lightning_lily_biomes.json",
+          "sha1": "44436119dc64fa20c9e05cf14adb4e3283cc31f6",
+          "size": 907
+        },
+        {
+          "name": "iceandfire/mausoleum_biomes.json",
+          "url": "config/iceandfire/mausoleum_biomes.json",
+          "sha1": "08403a733a336139a57f476be3da6900f4f87a0a",
+          "size": 728
+        },
+        {
+          "name": "iceandfire/mountain_troll_biomes.json",
+          "url": "config/iceandfire/mountain_troll_biomes.json",
+          "sha1": "dca8d143a3519c52cfb34d430df6b58c99e0ceae",
+          "size": 486
+        },
+        {
+          "name": "iceandfire/ore_gen_biomes.json",
+          "url": "config/iceandfire/ore_gen_biomes.json",
+          "sha1": "72c87498fe92bbaedac0dd8f17fe45cd39f10175",
+          "size": 145
+        },
+        {
+          "name": "iceandfire/pixie_village_biomes.json",
+          "url": "config/iceandfire/pixie_village_biomes.json",
+          "sha1": "dc2756d2d5e62611c086e5847b6863924f22ab93",
+          "size": 2194
+        },
+        {
+          "name": "iceandfire/sapphire_gen_biomes.json",
+          "url": "config/iceandfire/sapphire_gen_biomes.json",
+          "sha1": "abb5eac1280ec5b246a0553416b874e8374f405a",
+          "size": 624
+        },
+        {
+          "name": "iceandfire/sea_serpent_biomes.json",
+          "url": "config/iceandfire/sea_serpent_biomes.json",
+          "sha1": "b8e516f1cbf6a55f39488503ceaa54395233de2c",
+          "size": 254
+        },
+        {
+          "name": "iceandfire/siren_biomes.json",
+          "url": "config/iceandfire/siren_biomes.json",
+          "sha1": "b8e516f1cbf6a55f39488503ceaa54395233de2c",
+          "size": 254
+        },
+        {
+          "name": "iceandfire/snowy_troll_biomes.json",
+          "url": "config/iceandfire/snowy_troll_biomes.json",
+          "sha1": "048d4829d4d2905d8c3b0327819ef652318f315d",
+          "size": 250
+        },
+        {
+          "name": "iceandfire/stymphalian_bird_biomes.json",
+          "url": "config/iceandfire/stymphalian_bird_biomes.json",
+          "sha1": "018594f5f67a4641a9272737f62d8d03a3b9ac24",
+          "size": 747
+        },
+        {
+          "name": "iceandfire/wandering_cyclops_biomes.json",
+          "url": "config/iceandfire/wandering_cyclops_biomes.json",
+          "sha1": "f31050117fa4272ff3e80cc4a97a569632a54f13",
+          "size": 632
+        },
+        {
+          "name": "jei/blacklist.cfg",
+          "url": "config/jei/blacklist.cfg",
+          "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+          "size": 0
+        },
+        {
+          "name": "l2_configs/l2library-client.toml",
+          "url": "config/l2_configs/l2library-client.toml",
+          "sha1": "7b96ef3a4a39bf587c6b0f08c392dc502991f7be",
+          "size": 439
+        },
+        {
+          "name": "l2_configs/l2library-common.toml",
+          "url": "config/l2_configs/l2library-common.toml",
+          "sha1": "572b067ea256a987a6a39fcccd1214c367b6fa51",
+          "size": 70
+        },
+        {
+          "name": "Obscuria/aquamirae-client.toml",
+          "url": "config/Obscuria/aquamirae-client.toml",
+          "sha1": "c4530e5008169ef0d4d7680bf655e617b14e1f28",
+          "size": 200
+        },
+        {
+          "name": "Obscuria/aquamirae-common.toml",
+          "url": "config/Obscuria/aquamirae-common.toml",
+          "sha1": "508c59bd5b8f012c01be2e258bc498721151143c",
+          "size": 2170
+        },
+        {
+          "name": "Obscuria/obscure-api-client.toml",
+          "url": "config/Obscuria/obscure-api-client.toml",
+          "sha1": "9ffdb39c85a748f08f1ad3f87882b34e73c38202",
+          "size": 359
+        },
+        {
+          "name": "saintsdragons/camera_tuning.json",
+          "url": "config/saintsdragons/camera_tuning.json",
+          "sha1": "8c49e1460cb48a77370d1ebba69d7c9c206886d2",
+          "size": 3256
+        },
+        {
+          "name": "sereneseasons/fertility.toml",
+          "url": "config/sereneseasons/fertility.toml",
+          "sha1": "14b9e3be4a982461c991df82f8abf7da46a3ceef",
+          "size": 485
+        },
+        {
+          "name": "sereneseasons/seasons.toml",
+          "url": "config/sereneseasons/seasons.toml",
+          "sha1": "12fbaefce208dde50e8b84aae58881d023a2be45",
+          "size": 6778
+        },
+        {
+          "name": "sound_physics_remastered/allowed_sounds.properties",
+          "url": "config/sound_physics_remastered/allowed_sounds.properties",
+          "sha1": "4bfd847a2390722888c3de1ba1cbd6f9ba557599",
+          "size": 479958
+        },
+        {
+          "name": "sound_physics_remastered/occlusion.properties",
+          "url": "config/sound_physics_remastered/occlusion.properties",
+          "sha1": "63e8843f243c38bc7aa44d99ce4f562991890350",
+          "size": 4831
+        },
+        {
+          "name": "sound_physics_remastered/reflectivity.properties",
+          "url": "config/sound_physics_remastered/reflectivity.properties",
+          "sha1": "95feb43eb67757038518212b08739cb39bb9763e",
+          "size": 4713
+        },
+        {
+          "name": "sound_physics_remastered/soundphysics.properties",
+          "url": "config/sound_physics_remastered/soundphysics.properties",
+          "sha1": "8c28f59d92aacab3d3c3c541326039166fad00b7",
+          "size": 5105
+        },
+        {
+          "name": "thirst/client.toml",
+          "url": "config/thirst/client.toml",
+          "sha1": "7cb5e3d8baf6f1ad29769196fdde201e5f5a537e",
+          "size": 526
+        },
+        {
+          "name": "thirst/common.toml",
+          "url": "config/thirst/common.toml",
+          "sha1": "31dfba8f29c6370a76287962a8cdb520ff379231",
+          "size": 3900
+        },
+        {
+          "name": "thirst/container.toml",
+          "url": "config/thirst/container.toml",
+          "sha1": "4997e72561c456616014003d080f47b6ae017051",
+          "size": 247
+        },
+        {
+          "name": "thirst/item_settings.toml",
+          "url": "config/thirst/item_settings.toml",
+          "sha1": "6ff9a8c7c1386fbab6c02ff57ac355868fe05eb2",
+          "size": 5308
+        },
+        {
+          "name": "thirst/keyword.toml",
+          "url": "config/thirst/keyword.toml",
+          "sha1": "b5dbd4ab586ad3ffdd555fdcf755bb45092096fa",
+          "size": 2123
+        },
+        {
+          "name": "valkyrienskies/valkyrienskies-client.toml",
+          "url": "config/valkyrienskies/valkyrienskies-client.toml",
+          "sha1": "e819238834c9a1c12dd2e00e68e1d1eda23db954",
+          "size": 1154
+        },
+        {
+          "name": "valkyrienskies/valkyrienskies-common.toml",
+          "url": "config/valkyrienskies/valkyrienskies-common.toml",
+          "sha1": "9cf38906a1473254d8327a3da5866f13d44bd9d9",
+          "size": 194
+        },
+        {
+          "name": "valkyrienskies/vs_client.json",
+          "url": "config/valkyrienskies/vs_client.json",
+          "sha1": "58491c7955b6bdd55c8e3c081cba745e9fd8a6dd",
+          "size": 278
+        },
+        {
+          "name": "valkyrienskies/vs_common.json",
+          "url": "config/valkyrienskies/vs_common.json",
+          "sha1": "f5ebcbc38a04b5c993a4d315926c67b0f98584fc",
+          "size": 107
+        },
+        {
+          "name": "valkyrienskies/vs_core_server.json",
+          "url": "config/valkyrienskies/vs_core_server.json",
+          "sha1": "a65c0489835065c41e6847c97d249aaed5991b2c",
+          "size": 591
+        },
+        {
+          "name": "valkyrienskies/vs_eureka_client.json",
+          "url": "config/valkyrienskies/vs_eureka_client.json",
+          "sha1": "8cbd8bfee0981f2d83ad6cbe094ca4b6cf444670",
+          "size": 58
+        },
+        {
+          "name": "valkyrienskies/vs_eureka_server.json",
+          "url": "config/valkyrienskies/vs_eureka_server.json",
+          "sha1": "1098ce100c17a71f9d8661874e132d4d04a2af06",
+          "size": 3591
+        },
+        {
+          "name": "valkyrienskies/vs_server.json",
+          "url": "config/valkyrienskies/vs_server.json",
+          "sha1": "136c1abbc251ecd6f821cb054ed6ee82ae84c4ca",
+          "size": 636
+        },
+        {
+          "name": "valkyrienskies/schemas/vs_client.schema.json",
+          "url": "config/valkyrienskies/schemas/vs_client.schema.json",
+          "sha1": "9f4d1eb540aaa0e3b9977a03c036efac5a141080",
+          "size": 1297
+        },
+        {
+          "name": "valkyrienskies/schemas/vs_common.schema.json",
+          "url": "config/valkyrienskies/schemas/vs_common.schema.json",
+          "sha1": "a3fc81e6f741d81f96b1fc78a0685621a6bb869e",
+          "size": 606
+        },
+        {
+          "name": "valkyrienskies/schemas/vs_core_server.schema.json",
+          "url": "config/valkyrienskies/schemas/vs_core_server.schema.json",
+          "sha1": "68e66a1e1f0432840e4531da16e604040236f5a1",
+          "size": 3648
+        },
+        {
+          "name": "valkyrienskies/schemas/vs_eureka_client.schema.json",
+          "url": "config/valkyrienskies/schemas/vs_eureka_client.schema.json",
+          "sha1": "e0e761e4c7cad1e03593d71c782278269968c6f4",
+          "size": 123
+        },
+        {
+          "name": "valkyrienskies/schemas/vs_eureka_server.schema.json",
+          "url": "config/valkyrienskies/schemas/vs_eureka_server.schema.json",
+          "sha1": "444644f402f48d8a08481c3e93b997fea1ec4194",
+          "size": 7791
+        },
+        {
+          "name": "valkyrienskies/schemas/vs_server.schema.json",
+          "url": "config/valkyrienskies/schemas/vs_server.schema.json",
+          "sha1": "9fc84cbd357aba1564def4faca4c374e1014b2ec",
+          "size": 3771
+        },
+        {
+          "name": "worldedit/worldedit.properties",
+          "url": "config/worldedit/worldedit.properties",
+          "sha1": "6e68a7714f792630789c90b8356d1e0308912e76",
+          "size": 2542
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/strings.json",
+          "sha1": "792c944c9a71d1ac89669ee6e0b624a31094b1e4",
+          "size": 31478
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/af/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/af/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ar/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ar/strings.json",
+          "sha1": "eb7aca3e7bf344549878fcb30c7f50e66c9c04cd",
+          "size": 4566
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ast/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ast/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/az/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/az/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ba/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ba/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/be/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/be/strings.json",
+          "sha1": "c60574caff3a7a6dd8846a49bf80fc25c41f394c",
+          "size": 4057
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/bg/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/bg/strings.json",
+          "sha1": "c0e34950ff125d70db2890a5bc2bc79286dfa4be",
+          "size": 3965
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/br-FR/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/br-FR/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/brb/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/brb/strings.json",
+          "sha1": "4d12e8bb0d0e00eaa8dc3ee1e417776fdee97643",
+          "size": 32279
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/bs/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/bs/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ca/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ca/strings.json",
+          "sha1": "a3b7bdfec7a09c4e38f50f198624768e29b0b5d6",
+          "size": 554
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/cs/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/cs/strings.json",
+          "sha1": "6b9e4dad49b46fb700b18d0aa75d8461cd3b5c90",
+          "size": 33420
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/cy/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/cy/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/da/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/da/strings.json",
+          "sha1": "0364013945a196df3d24a984753d19f80608f8ef",
+          "size": 3017
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/de/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/de/strings.json",
+          "sha1": "02afc3e33312a76a16d423b54bc8ebc0cf682140",
+          "size": 34421
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/de-AT/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/de-AT/strings.json",
+          "sha1": "02afc3e33312a76a16d423b54bc8ebc0cf682140",
+          "size": 34421
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/de-CH/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/de-CH/strings.json",
+          "sha1": "cc296ccb2a3a69a2bdb33d8f3137b7137619336d",
+          "size": 34058
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/el/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/el/strings.json",
+          "sha1": "2322030c3ec0723fe5a5990b11dcda6c9b7d3f3f",
+          "size": 399
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/en-AU/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/en-AU/strings.json",
+          "sha1": "33271dc0b40bc0d7a24b9f61d3131e3ae55a808a",
+          "size": 642
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/en-CA/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/en-CA/strings.json",
+          "sha1": "d76eba76d98123e6d72a0240eab564145a273764",
+          "size": 712
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/en-NZ/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/en-NZ/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/en-PT/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/en-PT/strings.json",
+          "sha1": "324bb32bb400cfa4815f577c188eba10692a87e0",
+          "size": 1992
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/en-UD/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/en-UD/strings.json",
+          "sha1": "dae16763f8f3309d7e52511b8bf387501fc35548",
+          "size": 17531
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/enp/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/enp/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/eo/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/eo/strings.json",
+          "sha1": "7c7e9812a5fea5ff44dafbad060d0631ed22ebbe",
+          "size": 1007
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/es-AR/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/es-AR/strings.json",
+          "sha1": "bc9065046c72beada67cc91bde3d98770acbe288",
+          "size": 36277
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/es-CL/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/es-CL/strings.json",
+          "sha1": "f025a25029b0a7eebf37b2dac8eed5e567869867",
+          "size": 36404
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/es-ES/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/es-ES/strings.json",
+          "sha1": "1c5fc3b7478b635def45cc3103a9394fe6d35710",
+          "size": 36501
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/es-MX/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/es-MX/strings.json",
+          "sha1": "1c5fc3b7478b635def45cc3103a9394fe6d35710",
+          "size": 36501
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/es-UY/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/es-UY/strings.json",
+          "sha1": "1c5fc3b7478b635def45cc3103a9394fe6d35710",
+          "size": 36501
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/es-VE/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/es-VE/strings.json",
+          "sha1": "00ce8803a69fae4dd4d65c55223ffc3dd6630fde",
+          "size": 36132
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/et/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/et/strings.json",
+          "sha1": "7c9f8fc602d158667a112341b013ea8a0f662e30",
+          "size": 5508
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/eu/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/eu/strings.json",
+          "sha1": "1e8a373d399d0a356eded4df368e06a6f18e8f63",
+          "size": 8587
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/fa/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/fa/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/fi/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/fi/strings.json",
+          "sha1": "a66a02e0ab974728bb02470ceef4fa5a3ba91721",
+          "size": 1550
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/fil/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/fil/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/fo/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/fo/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/fr/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/fr/strings.json",
+          "sha1": "4e6d4f6957d9042ba1075e0f94c0b4ac8828a91d",
+          "size": 35723
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/fr-CA/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/fr-CA/strings.json",
+          "sha1": "5f9029381123f5822e27d2da308adcd52d15a58c",
+          "size": 35762
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/fra-DE/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/fra-DE/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/fy-NL/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/fy-NL/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ga-IE/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ga-IE/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/gd/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/gd/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/gl/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/gl/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/got/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/got/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/gv/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/gv/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/haw/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/haw/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/he/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/he/strings.json",
+          "sha1": "bb1f9a33fb26ed2125279687066ce6647e588839",
+          "size": 71
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/hi/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/hi/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/hr/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/hr/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/hu/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/hu/strings.json",
+          "sha1": "9e67f756bbf76d9bb5971f0ec5a8bada354fcda7",
+          "size": 11082
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/hy-AM/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/hy-AM/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/id/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/id/strings.json",
+          "sha1": "396158aa200c2af801ba15826fa0356abb9f682c",
+          "size": 32493
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ido/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ido/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ig/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ig/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/is/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/is/strings.json",
+          "sha1": "8c719af96631d6a6c2d70c8a487c67f617fc0ca9",
+          "size": 279
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/it/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/it/strings.json",
+          "sha1": "2f6a5db7985579763165efa2affb651460bc9eef",
+          "size": 33942
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ja/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ja/strings.json",
+          "sha1": "6616eb900ce6ebb4e5920c0925eeef7e3e37cfce",
+          "size": 24452
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/jbo/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/jbo/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ka/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ka/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/kab/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/kab/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/kk/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/kk/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/kn/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/kn/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ko/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ko/strings.json",
+          "sha1": "e7c8c8054a0da08d45547dec13f082097f4b2626",
+          "size": 30621
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ksh/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ksh/strings.json",
+          "sha1": "02afc3e33312a76a16d423b54bc8ebc0cf682140",
+          "size": 34421
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/kw/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/kw/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/la-LA/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/la-LA/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/lb/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/lb/strings.json",
+          "sha1": "5184eb63dcc1b5280d91902c7285d1a827643960",
+          "size": 288
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/li/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/li/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/lol/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/lol/strings.json",
+          "sha1": "53a9f018460300fb51ef613e0cec43f536546e34",
+          "size": 22098
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/lt/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/lt/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/lv/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/lv/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/mi/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/mi/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/mk/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/mk/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/mn/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/mn/strings.json",
+          "sha1": "5a1347a5588e481dd86ab92dc3ad84f316ff602a",
+          "size": 2954
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/moh/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/moh/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ms/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ms/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/mt/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/mt/strings.json",
+          "sha1": "235d227d4aeafb56c808c5257509d38c8c40e2c7",
+          "size": 1759
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/nds/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/nds/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/nl/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/nl/strings.json",
+          "sha1": "4d12e8bb0d0e00eaa8dc3ee1e417776fdee97643",
+          "size": 32279
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/nl-BE/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/nl-BE/strings.json",
+          "sha1": "68f394011931604ae0623fb3fdbb77b300791f10",
+          "size": 32269
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/nn-NO/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/nn-NO/strings.json",
+          "sha1": "bfd75f722dd1bcbda5b6ba8ace158f391fa7e89e",
+          "size": 29879
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/no/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/no/strings.json",
+          "sha1": "bfd75f722dd1bcbda5b6ba8ace158f391fa7e89e",
+          "size": 29879
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/nuk/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/nuk/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/oc/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/oc/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/oj/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/oj/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/pl/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/pl/strings.json",
+          "sha1": "c3eb4e85056f1ecfe6c2fe62dcd8fb6c67bcfa71",
+          "size": 34723
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/pt-BR/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/pt-BR/strings.json",
+          "sha1": "9ded7fe8c66acc4cd043e1ba18eafd2c75f61fb8",
+          "size": 25690
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/pt-PT/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/pt-PT/strings.json",
+          "sha1": "088167f7b1d4fec597fe4bab1ce83da896f4115e",
+          "size": 5382
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/qya-AA/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/qya-AA/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ro/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ro/strings.json",
+          "sha1": "dbf641475bc55db3a776a6ca0088cdf835bc0e35",
+          "size": 1737
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ru/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ru/strings.json",
+          "sha1": "1be8e90bfec09a4d92d78cd496324b57f767f436",
+          "size": 44527
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/se/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/se/strings.json",
+          "sha1": "0e89ce1223b6b90c69c809a56441d3a9480eeccb",
+          "size": 826
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/sk/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/sk/strings.json",
+          "sha1": "3460136113848963844612776902d6fa4e6343c8",
+          "size": 10085
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/sl/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/sl/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/so/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/so/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/sq/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/sq/strings.json",
+          "sha1": "08655754f4bf8e9ff1aed11cc550ed72f548ad4c",
+          "size": 6753
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/sr/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/sr/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/sv-SE/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/sv-SE/strings.json",
+          "sha1": "1b9d0d7339e86e204314d6d7eb6ae0fb089527b4",
+          "size": 28182
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/swg/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/swg/strings.json",
+          "sha1": "02afc3e33312a76a16d423b54bc8ebc0cf682140",
+          "size": 34421
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/szl/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/szl/strings.json",
+          "sha1": "c3eb4e85056f1ecfe6c2fe62dcd8fb6c67bcfa71",
+          "size": 34723
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/ta/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/ta/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/th/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/th/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/tlh-AA/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/tlh-AA/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/tr/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/tr/strings.json",
+          "sha1": "1154120fc7238ed77b82674268d4ea0b6da4fa0c",
+          "size": 17748
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/tt-RU/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/tt-RU/strings.json",
+          "sha1": "ff503a4bf90a11bb6ccc2bca6d0b2dd57bf42003",
+          "size": 106
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/tzl/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/tzl/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/uk/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/uk/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/val-ES/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/val-ES/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/vec/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/vec/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/vi/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/vi/strings.json",
+          "sha1": "2069d274a20fd8b178e30f1c5c4489e2e15a9d83",
+          "size": 5975
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/yi/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/yi/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/yo/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/yo/strings.json",
+          "sha1": "5f36b2ea290645ee34d943220a14b54ee5ea5be5",
+          "size": 3
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/zh-CN/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/zh-CN/strings.json",
+          "sha1": "daf2870641ffe834cee67eeec30c458a43c0eada",
+          "size": 31940
+        },
+        {
+          "name": "worldedit/.archive-unpack/2e1dd752/zh-TW/strings.json",
+          "url": "config/worldedit/.archive-unpack/2e1dd752/zh-TW/strings.json",
+          "sha1": "8c8421d8d42a6da81087c5e70fb5e4b55851c0cb",
+          "size": 28368
+        },
+        {
+          "name": "worldedit/sessions/9dc609d2-6fc7-44ad-9f33-33696e2ef117.json",
+          "url": "config/worldedit/sessions/9dc609d2-6fc7-44ad-9f33-33696e2ef117.json",
+          "sha1": "edd9066bc9077042a4b1d07002b031747a97f6a2",
+          "size": 139
+        },
+        {
+          "name": "zombieawareness/ClientConfig.toml",
+          "url": "config/zombieawareness/ClientConfig.toml",
+          "sha1": "15abc3e09462db599222c80d6aeeb61df3e6c665",
+          "size": 111
+        },
+        {
+          "name": "zombieawareness/Features.toml",
+          "url": "config/zombieawareness/Features.toml",
+          "sha1": "a745da79cf9a10a1c830ce2d2a1d7b6b12dd1764",
+          "size": 1605
+        },
+        {
+          "name": "zombieawareness/General.toml",
+          "url": "config/zombieawareness/General.toml",
+          "sha1": "22713734d5cd535d7060ddb2b79210c6d3ce5f60",
+          "size": 3059
+        },
+        {
+          "name": "zombieawareness/MobLists.toml",
+          "url": "config/zombieawareness/MobLists.toml",
+          "sha1": "71997cb11f7034c4b635189e7e866e132d5827ff",
+          "size": 3995
+        },
+        {
+          "name": "zombieawareness/PlayerRulesAndLists.toml",
+          "url": "config/zombieawareness/PlayerRulesAndLists.toml",
+          "sha1": "2c0e1e4d4b66a1e8fe7c5d58a36816bb68b05596",
+          "size": 412
         }
       ]
     }
