@@ -1157,8 +1157,8 @@
         {
           "name": "iceandfire-client.toml",
           "url": "config/iceandfire-client.toml",
-          "sha1": "ccc3bbfd2286c5de54e8a9cb433b1d0353f8ac18",
-          "size": 320
+          "sha1": "c2496499058a2467a6656cbb424377abc80cd558",
+          "size": 321
         },
         {
           "name": "iceandfire-common.toml",
