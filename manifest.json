@@ -916,28 +916,551 @@
       "target": "resourcepacks",
       "files": [
         {
-          "name": "AAAAAAAAAAAA.zip",
-          "url": "resourcepacks/AAAAAAAAAAAA.zip",
-          "sha1": "a8a0e0faeb1b8e7f447e7cbf883b17535d64ddf9",
-          "size": 214597528
-        },
-        {
           "name": "Excalibur_V1.20.zip",
           "url": "resourcepacks/Excalibur_V1.20.zip",
           "sha1": "5a49050cd16d898a29d329c21a3006b2381a0dcc",
           "size": 17107369
-        },
-        {
-          "name": "\u00a76Dynamic\u00a79Surroundings \u00a72R5.zip",
-          "url": "resourcepacks/\u00a76Dynamic\u00a79Surroundings \u00a72R5.zip",
-          "sha1": "052ea766464071e3fc0b9eeca5b978dcb725eead",
-          "size": 153356817
         }
       ]
     },
     "config": {
       "target": "config",
-      "files": []
+      "files": [
+        {
+          "name": "aether-client.toml",
+          "url": "config/aether-client.toml",
+          "sha1": "2ad41ef08b1eb6deccb05cb25c41ab75d5a2132d",
+          "size": 4636
+        },
+        {
+          "name": "aether-common.toml",
+          "url": "config/aether-common.toml",
+          "sha1": "e3a247d45d6e5b4521c2ec4424c97569632128d7",
+          "size": 1351
+        },
+        {
+          "name": "alexsmobs.toml",
+          "url": "config/alexsmobs.toml",
+          "sha1": "36ca9d04900eb44d382360308d6ca622901da82c",
+          "size": 36192
+        },
+        {
+          "name": "aquaculture-common.toml",
+          "url": "config/aquaculture-common.toml",
+          "sha1": "7256a7dea1223ddc1b6e54ad3ac7a3aea5f5c175",
+          "size": 825
+        },
+        {
+          "name": "astikorcarts-common.toml",
+          "url": "config/astikorcarts-common.toml",
+          "sha1": "21886d42831b43d22ab2f294ff82409558e900b4",
+          "size": 1660
+        },
+        {
+          "name": "azurelib.json",
+          "url": "config/azurelib.json",
+          "sha1": "828d3790be031e90b4e8deab586c77701ca4477a",
+          "size": 101
+        },
+        {
+          "name": "bakery.toml",
+          "url": "config/bakery.toml",
+          "sha1": "35e4c7752e130bac56536eb4d975cae805de41c4",
+          "size": 5617
+        },
+        {
+          "name": "balm-client.toml",
+          "url": "config/balm-client.toml",
+          "sha1": "7ce375130f5964ea8484cb7577845e35390aaf72",
+          "size": 797
+        },
+        {
+          "name": "balm-common.toml",
+          "url": "config/balm-common.toml",
+          "sha1": "7ce375130f5964ea8484cb7577845e35390aaf72",
+          "size": 797
+        },
+        {
+          "name": "betterarcheology-common.toml",
+          "url": "config/betterarcheology-common.toml",
+          "sha1": "3e07e5e735c1675cbbffec9188e1306c92307340",
+          "size": 4734
+        },
+        {
+          "name": "betterchunkloading.json",
+          "url": "config/betterchunkloading.json",
+          "sha1": "df5d39f49958feccd1163b3096364fd942f83fa2",
+          "size": 2049
+        },
+        {
+          "name": "betterdays-client.toml",
+          "url": "config/betterdays-client.toml",
+          "sha1": "4d5dd17e1e2c96f84130d57ed0cfda19bafb1054",
+          "size": 941
+        },
+        {
+          "name": "betterdays-common.toml",
+          "url": "config/betterdays-common.toml",
+          "sha1": "d7a4b8e6d9116cd57a7de10c3ffd5c7e218f7d86",
+          "size": 8840
+        },
+        {
+          "name": "bosses_rise_config.toml",
+          "url": "config/bosses_rise_config.toml",
+          "sha1": "a54b28fe8a3b65f4b8382cb916b83b76c8143f1b",
+          "size": 1229
+        },
+        {
+          "name": "butcher.toml",
+          "url": "config/butcher.toml",
+          "sha1": "3cf7c1a0738ce8a1bd288930f02e21af2492da4e",
+          "size": 3499
+        },
+        {
+          "name": "cataclysm.toml",
+          "url": "config/cataclysm.toml",
+          "sha1": "ccba93286a176f8c4828ed37540410d73e4f5ed3",
+          "size": 18089
+        },
+        {
+          "name": "chunksending.json",
+          "url": "config/chunksending.json",
+          "sha1": "d387591eb7052aea9f328a0fe88db3197704ce72",
+          "size": 301
+        },
+        {
+          "name": "citadel-common.toml",
+          "url": "config/citadel-common.toml",
+          "sha1": "f3aad9442cc4ae95760ceb68f75d5735e9247f6a",
+          "size": 648
+        },
+        {
+          "name": "copycats-client.toml",
+          "url": "config/copycats-client.toml",
+          "sha1": "e113d0d36c8005058d3458f3127172958922f26c",
+          "size": 342
+        },
+        {
+          "name": "copycats-common.toml",
+          "url": "config/copycats-common.toml",
+          "sha1": "ae937ec10a37aa60cd5e5013ee23fd7957ea0548",
+          "size": 2167
+        },
+        {
+          "name": "create-client.toml",
+          "url": "config/create-client.toml",
+          "sha1": "f0e3b28d365068349fb5c06215da6f76dfd4497c",
+          "size": 4397
+        },
+        {
+          "name": "create-common.toml",
+          "url": "config/create-common.toml",
+          "sha1": "41cda6916fe6ee82d14411d094f884862ef2b3de",
+          "size": 157
+        },
+        {
+          "name": "cumulus_menus-client.toml",
+          "url": "config/cumulus_menus-client.toml",
+          "sha1": "c7b1516f468603c3c8b9fd4e630e2e7ee25a6b43",
+          "size": 313
+        },
+        {
+          "name": "cupboard.json",
+          "url": "config/cupboard.json",
+          "sha1": "cfa60cb9fc1260b3c92e2eb08ac7e0d4d13274f5",
+          "size": 1090
+        },
+        {
+          "name": "curios-client.toml",
+          "url": "config/curios-client.toml",
+          "sha1": "3034250c05362494c9f366e5cca449dcea88885d",
+          "size": 706
+        },
+        {
+          "name": "curios-common.toml",
+          "url": "config/curios-common.toml",
+          "sha1": "71b3af0db517d1651174a40732633899cbabc927",
+          "size": 161
+        },
+        {
+          "name": "CustomNpcs.cfg",
+          "url": "config/CustomNpcs.cfg",
+          "sha1": "f0fb56473aa6ae50f2464a85bdb70beaccfa5e3d",
+          "size": 2144
+        },
+        {
+          "name": "deadly-dinos-common.toml",
+          "url": "config/deadly-dinos-common.toml",
+          "sha1": "906a3fd3c00872ff7593917c87c4250c576cfe96",
+          "size": 4545
+        },
+        {
+          "name": "dungeon_crawl.toml",
+          "url": "config/dungeon_crawl.toml",
+          "sha1": "40680dfe29428c2a61778a9a5109865dae3c0b92",
+          "size": 2903
+        },
+        {
+          "name": "effortlessbuilding-client.toml",
+          "url": "config/effortlessbuilding-client.toml",
+          "sha1": "0f4db352da4e05b224dbdccabeb1e97346ec5f97",
+          "size": 617
+        },
+        {
+          "name": "effortlessbuilding-common.toml",
+          "url": "config/effortlessbuilding-common.toml",
+          "sha1": "51e6b689c5c9ac18f05a9f6c7f8a0053e584f2b1",
+          "size": 1833
+        },
+        {
+          "name": "farmandcharm.toml",
+          "url": "config/farmandcharm.toml",
+          "sha1": "24e1d87666674e5f9d641ac5cba11db019e9d5e1",
+          "size": 4416
+        },
+        {
+          "name": "flywheel-client.toml",
+          "url": "config/flywheel-client.toml",
+          "sha1": "277960be83ecac5080dd3dccdf809f2a55d3176d",
+          "size": 623
+        },
+        {
+          "name": "fml.toml",
+          "url": "config/fml.toml",
+          "sha1": "5850d014d8cc0cb6e529a9630398080506f90262",
+          "size": 1147
+        },
+        {
+          "name": "forge-client.toml",
+          "url": "config/forge-client.toml",
+          "sha1": "55e80f51f0c9cf66de1f95c4d775b24dc59627a1",
+          "size": 1628
+        },
+        {
+          "name": "guardvillagers-client.toml",
+          "url": "config/guardvillagers-client.toml",
+          "sha1": "894db650b2d756de183d219b991d884eaf4a8bbe",
+          "size": 210
+        },
+        {
+          "name": "guardvillagers-common.toml",
+          "url": "config/guardvillagers-common.toml",
+          "sha1": "8d7ca420efea0e53cd548e8ad20b40b5d589920b",
+          "size": 3977
+        },
+        {
+          "name": "herbalbrews.toml",
+          "url": "config/herbalbrews.toml",
+          "sha1": "5ddef69e82cbbc4bb5b5fb1953a35f405137b330",
+          "size": 742
+        },
+        {
+          "name": "iceandfire-client.toml",
+          "url": "config/iceandfire-client.toml",
+          "sha1": "ccc3bbfd2286c5de54e8a9cb433b1d0353f8ac18",
+          "size": 320
+        },
+        {
+          "name": "iceandfire-common.toml",
+          "url": "config/iceandfire-common.toml",
+          "sha1": "a8a5ae3f6863326ce35ab4d9052fe6c49eba115b",
+          "size": 15912
+        },
+        {
+          "name": "immersive_melodies.json",
+          "url": "config/immersive_melodies.json",
+          "sha1": "e41603690252207c9a6e236346011318ffd8851e",
+          "size": 994
+        },
+        {
+          "name": "livestock-overhaul-client.toml",
+          "url": "config/livestock-overhaul-client.toml",
+          "sha1": "6389b2a1b493b210a08036675647f7af11a94112",
+          "size": 1548
+        },
+        {
+          "name": "livestock-overhaul-common.toml",
+          "url": "config/livestock-overhaul-common.toml",
+          "sha1": "3e7bf1d2ea58acd0c958d762f6dcdd71767c33a2",
+          "size": 9045
+        },
+        {
+          "name": "livestock-overhaul-pets-client.toml",
+          "url": "config/livestock-overhaul-pets-client.toml",
+          "sha1": "2c3bde1830df628604c2a08c44725413a9ed47e8",
+          "size": 200
+        },
+        {
+          "name": "livestock-overhaul-pets-common.toml",
+          "url": "config/livestock-overhaul-pets-common.toml",
+          "sha1": "3346b5a26c229f8b1add3289daff3f3877724719",
+          "size": 1077
+        },
+        {
+          "name": "lmft.json",
+          "url": "config/lmft.json",
+          "sha1": "2e80e8d24b405381d6ae8d32f51c04d88fec5cc2",
+          "size": 33
+        },
+        {
+          "name": "Luminous_Configuration.toml",
+          "url": "config/Luminous_Configuration.toml",
+          "sha1": "dd71c45eab5e747d1260a67bf8f58712eb579fac",
+          "size": 3408
+        },
+        {
+          "name": "manyideas_core-client.toml",
+          "url": "config/manyideas_core-client.toml",
+          "sha1": "c30c5dddf0ee1c1ed0502813266f7cb4396fe9ac",
+          "size": 203
+        },
+        {
+          "name": "medieval-embroidery-client.toml",
+          "url": "config/medieval-embroidery-client.toml",
+          "sha1": "dd234435397654e19027ee94afc8d80b8d187028",
+          "size": 85
+        },
+        {
+          "name": "medieval-embroidery-common.toml",
+          "url": "config/medieval-embroidery-common.toml",
+          "sha1": "e40e4be040a0ff121effc008fd419fa1ede2b5b8",
+          "size": 1041
+        },
+        {
+          "name": "medieval_boomsticks-common.toml",
+          "url": "config/medieval_boomsticks-common.toml",
+          "sha1": "f117491aea35b493abed2fe6bcb50bc2414bb811",
+          "size": 2004
+        },
+        {
+          "name": "minecolonies-client.toml",
+          "url": "config/minecolonies-client.toml",
+          "sha1": "576995d0736cc756f209f2f1232fe470b8a57601",
+          "size": 1112
+        },
+        {
+          "name": "minecolonies-common.toml",
+          "url": "config/minecolonies-common.toml",
+          "sha1": "c72d01a7f24cbe9c784b6b84c3d9279071de6473",
+          "size": 389
+        },
+        {
+          "name": "minecolonytax.toml",
+          "url": "config/minecolonytax.toml",
+          "sha1": "68a6819f6bd2695e1f54a79323940fcce254f79f",
+          "size": 11872
+        },
+        {
+          "name": "mobs_of_mythology.properties",
+          "url": "config/mobs_of_mythology.properties",
+          "sha1": "c79d693e19593a93fd3f0dad246ab9111dbd6510",
+          "size": 2128
+        },
+        {
+          "name": "modonomicon-client.toml",
+          "url": "config/modonomicon-client.toml",
+          "sha1": "89999d3cece2d678ae65e3aa055815b97d19339a",
+          "size": 567
+        },
+        {
+          "name": "mowziesmobs-client.toml",
+          "url": "config/mowziesmobs-client.toml",
+          "sha1": "6bc3309d4a30764cc565aecf872c61bc074db30a",
+          "size": 984
+        },
+        {
+          "name": "mowziesmobs-common.toml",
+          "url": "config/mowziesmobs-common.toml",
+          "sha1": "4e26e93cbf1a49b5b414b5394d5d607568a2473d",
+          "size": 32787
+        },
+        {
+          "name": "paraglider-common.toml",
+          "url": "config/paraglider-common.toml",
+          "sha1": "2051bf786d643516d847e075931436996df5bbd0",
+          "size": 1336
+        },
+        {
+          "name": "paraglider-player-states.toml",
+          "url": "config/paraglider-player-states.toml",
+          "sha1": "f41002e2b4ffadc874b126d73021b5bf23336def",
+          "size": 1526
+        },
+        {
+          "name": "patchouli-client.toml",
+          "url": "config/patchouli-client.toml",
+          "sha1": "e4987ed22204ca092b2d62a5fa1a065fe88fd9b2",
+          "size": 1091
+        },
+        {
+          "name": "ponder-client.toml",
+          "url": "config/ponder-client.toml",
+          "sha1": "0b19ea00344a54de06114aa1a0f1d4bec95782d1",
+          "size": 619
+        },
+        {
+          "name": "saintsdragons-attributes.toml",
+          "url": "config/saintsdragons-attributes.toml",
+          "sha1": "dd47a74f4a060eddcb14dcc0a4cd7e8973622d25",
+          "size": 11453
+        },
+        {
+          "name": "saintsdragonsspawning.toml",
+          "url": "config/saintsdragonsspawning.toml",
+          "sha1": "6e503ddf2fd844c4d5b2345af9b3d73f2b608eca",
+          "size": 5001
+        },
+        {
+          "name": "sidebar_buttons.json",
+          "url": "config/sidebar_buttons.json",
+          "sha1": "2a12d449a68acc247fa1c1156456f7297e2ec0ed",
+          "size": 155
+        },
+        {
+          "name": "smallships-client.toml",
+          "url": "config/smallships-client.toml",
+          "sha1": "594582b47f227aae4687ac2108877494f0b90db6",
+          "size": 1187
+        },
+        {
+          "name": "smallships-common.toml",
+          "url": "config/smallships-common.toml",
+          "sha1": "e82565d47d11a02f1adc27cfdc6b144370767432",
+          "size": 6271
+        },
+        {
+          "name": "spawnbalanceutility-common.toml",
+          "url": "config/spawnbalanceutility-common.toml",
+          "sha1": "c0fee7878a6dee5a56865fd8dd56d0a4739bbae8",
+          "size": 1120
+        },
+        {
+          "name": "storagedrawers-client.toml",
+          "url": "config/storagedrawers-client.toml",
+          "sha1": "b41b7227e4cfde663209cd8c3a4bc42ee6cad2de",
+          "size": 629
+        },
+        {
+          "name": "storagedrawers-common.toml",
+          "url": "config/storagedrawers-common.toml",
+          "sha1": "e31bf095f96673506e9266c4772e62474a4c8830",
+          "size": 4544
+        },
+        {
+          "name": "structure_gel-client.toml",
+          "url": "config/structure_gel-client.toml",
+          "sha1": "12ea00e65c458e63686bfd6799801424d674d8a7",
+          "size": 271
+        },
+        {
+          "name": "structure_gel-common.toml",
+          "url": "config/structure_gel-common.toml",
+          "sha1": "00590014525c67197642cd22e7480528a484f726",
+          "size": 885
+        },
+        {
+          "name": "structurize-client.toml",
+          "url": "config/structurize-client.toml",
+          "sha1": "4556528561eabe0fbfc9e96fe261c174972f699b",
+          "size": 1221
+        },
+        {
+          "name": "tectonic.json",
+          "url": "config/tectonic.json",
+          "sha1": "2753a51a2dab9c4e0affe0bd72887a284218981c",
+          "size": 1289
+        },
+        {
+          "name": "terrablender.toml",
+          "url": "config/terrablender.toml",
+          "sha1": "6aafe73ff2fd229ef1db7bd1ca6580beedecb846",
+          "size": 552
+        },
+        {
+          "name": "travelersbackpack-client.toml",
+          "url": "config/travelersbackpack-client.toml",
+          "sha1": "b6cacfb11b5a8689ec011d617b97e1802710d5e4",
+          "size": 1118
+        },
+        {
+          "name": "travelersbackpack-common.toml",
+          "url": "config/travelersbackpack-common.toml",
+          "sha1": "3d4450ca6f991e8f7094403741dd7a38b6f10821",
+          "size": 201
+        },
+        {
+          "name": "undergarden-client.toml",
+          "url": "config/undergarden-client.toml",
+          "sha1": "97ff56d2b7df060904bb3a6c8b0f5d40f0d98f1b",
+          "size": 144
+        },
+        {
+          "name": "undergarden-common.toml",
+          "url": "config/undergarden-common.toml",
+          "sha1": "52d5a3df0a03d9b0d486551d37cb85035cf27465",
+          "size": 343
+        },
+        {
+          "name": "vinery.toml",
+          "url": "config/vinery.toml",
+          "sha1": "8317aa1c5dced88d7aea87c7c9beee098b768350",
+          "size": 2933
+        },
+        {
+          "name": "waystones-common.toml",
+          "url": "config/waystones-common.toml",
+          "sha1": "c4d9b558a943f1574576d7adf6dca2757f86c0b9",
+          "size": 6922
+        },
+        {
+          "name": "weaponmaster_ydm-common.toml",
+          "url": "config/weaponmaster_ydm-common.toml",
+          "sha1": "e93438e452b0f252717394c34274d10a69bf22fe",
+          "size": 7657
+        },
+        {
+          "name": "wildernature.toml",
+          "url": "config/wildernature.toml",
+          "sha1": "42fb43b9374982d03dc112c51e333298ea0f4f16",
+          "size": 3211
+        },
+        {
+          "name": "xaerominimap-common.txt",
+          "url": "config/xaerominimap-common.txt",
+          "sha1": "9dfa008f15d138e34b337e8e67122ea0364b67c0",
+          "size": 145
+        },
+        {
+          "name": "xaerominimap.txt",
+          "url": "config/xaerominimap.txt",
+          "sha1": "ab6b7a4ca46fb557be2dbe1a96c383d7e649c0e3",
+          "size": 3642
+        },
+        {
+          "name": "xaerominimap_entities.json",
+          "url": "config/xaerominimap_entities.json",
+          "sha1": "3523d6db6b0543a9de55286e914bc748f7fc68d9",
+          "size": 5531
+        },
+        {
+          "name": "xaeropatreon.txt",
+          "url": "config/xaeropatreon.txt",
+          "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+          "size": 0
+        },
+        {
+          "name": "xaeroworldmap-common.txt",
+          "url": "config/xaeroworldmap-common.txt",
+          "sha1": "2654cb878cde3f8a7beaa75750a6ddd094cf8b97",
+          "size": 120
+        },
+        {
+          "name": "xaeroworldmap.txt",
+          "url": "config/xaeroworldmap.txt",
+          "sha1": "1a95f5132e80a62f6584693be5252c89b3851304",
+          "size": 1220
+        }
+      ]
     }
   }
 }
