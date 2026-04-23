@@ -330,12 +330,6 @@
           "size": 974818
         },
         {
-          "name": "fancymenu_forge_3.8.1_MC_1.20.1.jar",
-          "url": "mods/fancymenu_forge_3.8.1_MC_1.20.1.jar",
-          "sha1": "1fef1d8ab0dc2dec116bc6d6cb6f789fd33b23b0",
-          "size": 4472193
-        },
-        {
           "name": "fantasyfurniture-1.20.1-9.0.0.jar",
           "url": "mods/fantasyfurniture-1.20.1-9.0.0.jar",
           "sha1": "85b51d883025413c89ce52ae5e9a7071bc4e53a3",
@@ -444,12 +438,6 @@
           "size": 1379220
         },
         {
-          "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-          "url": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-          "sha1": "2019d821bed9071daabed43979433a5473ceee49",
-          "size": 625185
-        },
-        {
           "name": "kotlinforforge-4.11.0-all.jar",
           "url": "mods/kotlinforforge-4.11.0-all.jar",
           "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
@@ -556,12 +544,6 @@
           "url": "mods/Medieval_Embroidery-1.20.1-0.7.5.jar",
           "sha1": "f8a478f94fcaae42ef427d3943b83b4e0adaf769",
           "size": 2680054
-        },
-        {
-          "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-          "url": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-          "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
-          "size": 37178
         },
         {
           "name": "minecolonies-1.20.1-1.1.897-snapshot (1).jar",
