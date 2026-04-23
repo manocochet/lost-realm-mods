@@ -934,10 +934,10 @@
       "target": "resourcepacks",
       "files": [
         {
-          "name": "Excalibur_V1.20.zip",
-          "url": "resourcepacks/Excalibur_V1.20.zip",
-          "sha1": "5a49050cd16d898a29d329c21a3006b2381a0dcc",
-          "size": 17107369
+          "name": "Dynamic_Surroundings_R5.zip",
+          "url": "resourcepacks/Dynamic_Surroundings_R5.zip",
+          "sha1": "b8c92de77c8bd190bc497775503490d26c5dff0a",
+          "size": 2427
         }
       ]
     },
