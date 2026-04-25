@@ -186,6 +186,12 @@
           "size": 14936
         },
         {
+          "name": "clockwork-0.5.5.2.jar",
+          "url": "mods/clockwork-0.5.5.2.jar",
+          "sha1": "2370ab4f3a34d7fee3b12b624a4c9c3ea641a100",
+          "size": 10989919
+        },
+        {
           "name": "cloth-config-11.1.136-forge.jar",
           "url": "mods/cloth-config-11.1.136-forge.jar",
           "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
@@ -226,6 +232,12 @@
           "url": "mods/create-1.20.1-6.0.8.jar",
           "sha1": "b13d912b9247a38d66d11598c121442585a1c1e9",
           "size": 19170905
+        },
+        {
+          "name": "create_interactive-1.2.1_1.20.1-forge.jar",
+          "url": "mods/create_interactive-1.2.1_1.20.1-forge.jar",
+          "sha1": "9f7109809b71754dff91b16e5b43d4a0c308de88",
+          "size": 865144
         },
         {
           "name": "cristellib-1.1.6-forge.jar",
