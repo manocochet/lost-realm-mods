@@ -276,6 +276,12 @@
           "size": 573928
         },
         {
+          "name": "deltaboxlib-forge-2.2.0+1.20.1.jar",
+          "url": "mods/deltaboxlib-forge-2.2.0+1.20.1.jar",
+          "sha1": "8f5cd619b02eaccd936cc6a3e1e47fe558a728b7",
+          "size": 804529
+        },
+        {
           "name": "domum_ornamentum-1.20.1-1.0.285-snapshot-universal.jar",
           "url": "mods/domum_ornamentum-1.20.1-1.0.285-snapshot-universal.jar",
           "sha1": "c7ac72b2e4fb5309e3cd0988b610c2f3016b9cb9",
@@ -634,6 +640,12 @@
           "url": "mods/mowziesmobs-1.7.2.jar",
           "sha1": "af09543b27be73afdef57c534926ee53043344c8",
           "size": 35239370
+        },
+        {
+          "name": "musicbox-forge-2.0.2+1.20.1.jar",
+          "url": "mods/musicbox-forge-2.0.2+1.20.1.jar",
+          "sha1": "4d8b9e35b60fd35efa7bc47a8a1713d5a3f2c2ef",
+          "size": 170771
         },
         {
           "name": "mvs-4.1.4-1.20-forge.jar",
