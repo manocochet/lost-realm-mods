@@ -450,6 +450,12 @@
           "size": 51267
         },
         {
+          "name": "HundredYearsWar-0.6.0r-1.20.1-forge.jar",
+          "url": "mods/HundredYearsWar-0.6.0r-1.20.1-forge.jar",
+          "sha1": "c9bbd9c82f7764bc3cc5b65c2d6102919d36e5d5",
+          "size": 8993362
+        },
+        {
           "name": "iceandfire-2.1.13-1.20.1-beta-5.jar",
           "url": "mods/iceandfire-2.1.13-1.20.1-beta-5.jar",
           "sha1": "7e828cbb046ca3d622e92c68f956bd1c0155dc6f",
