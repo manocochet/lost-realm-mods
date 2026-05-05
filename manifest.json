@@ -144,10 +144,10 @@
           "size": 34108246
         },
         {
-          "name": "Byzantine-1.21.1-32.1.jar",
-          "url": "mods/Byzantine-1.21.1-32.1.jar",
-          "sha1": "26ac3a9c1d888051475d8012ce32a8ffba9859f2",
-          "size": 11436955
+          "name": "Byzantine-1.21.1-49.jar",
+          "url": "mods/Byzantine-1.21.1-49.jar",
+          "sha1": "5e69860e3e55be985e39a18072b9ab879a533501",
+          "size": 15805152
         },
         {
           "name": "caelus-forge-3.2.0+1.20.1.jar",
@@ -600,10 +600,10 @@
           "size": 37178
         },
         {
-          "name": "minecolonies-1.20.1-1.1.897-snapshot (1).jar",
-          "url": "mods/minecolonies-1.20.1-1.1.897-snapshot (1).jar",
-          "sha1": "8390dcd30ef69369b1c9800cc9d435ac2714796a",
-          "size": 71921445
+          "name": "minecolonies-1.20.1-1.1.1219-snapshot.jar",
+          "url": "mods/minecolonies-1.20.1-1.1.1219-snapshot.jar",
+          "sha1": "e70957c0899a0d3c035151f177d3cec7dc581981",
+          "size": 77733482
         },
         {
           "name": "minecolonies_free_research-1.1.0.jar",
