@@ -282,10 +282,10 @@
           "size": 804529
         },
         {
-          "name": "domum_ornamentum-1.20.1-1.0.285-snapshot-universal.jar",
-          "url": "mods/domum_ornamentum-1.20.1-1.0.285-snapshot-universal.jar",
-          "sha1": "c7ac72b2e4fb5309e3cd0988b610c2f3016b9cb9",
-          "size": 1096466
+          "name": "domum_ornamentum-1.20.1-1.0.296-universal.jar",
+          "url": "mods/domum_ornamentum-1.20.1-1.0.296-universal.jar",
+          "sha1": "f0052adb170e5f73f0f5b625c411bc5b99183c00",
+          "size": 1141555
         },
         {
           "name": "DragNs_Deadly_Dinos-1.20.1-1.0.2.jar",
@@ -810,10 +810,10 @@
           "size": 966028
         },
         {
-          "name": "structurize-1.20.1-1.0.772-snapshot.jar",
-          "url": "mods/structurize-1.20.1-1.0.772-snapshot.jar",
-          "sha1": "8a0fc3c418d07677795ac23088946f91427ea4cf",
-          "size": 1062235
+          "name": "structurize-1.20.1-1.0.811.jar",
+          "url": "mods/structurize-1.20.1-1.0.811.jar",
+          "sha1": "7be26f8d3a3b145470bfd0292f91366a876b804b",
+          "size": 1124628
         },
         {
           "name": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
