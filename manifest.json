@@ -282,6 +282,12 @@
           "size": 804529
         },
         {
+          "name": "DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar",
+          "url": "mods/DistantHorizons-3.0.3-b-1.20.1-fabric-forge.jar",
+          "sha1": "90de462112b43f58686573c4e08bfe42e3352133",
+          "size": 29467253
+        },
+        {
           "name": "domum_ornamentum-1.20.1-1.0.296-universal.jar",
           "url": "mods/domum_ornamentum-1.20.1-1.0.296-universal.jar",
           "sha1": "f0052adb170e5f73f0f5b625c411bc5b99183c00",
@@ -340,6 +346,12 @@
           "url": "mods/Epic Villages v1.1.0 (1.20+).jar",
           "sha1": "c94dbe642d0680deb56a5578923c8cc49dbfd52e",
           "size": 3136389
+        },
+        {
+          "name": "epic-knights-1.20.1-forge-10.6.jar",
+          "url": "mods/epic-knights-1.20.1-forge-10.6.jar",
+          "sha1": "783c04c0fddf6fab315821999c7305ccb522286a",
+          "size": 2962119
         },
         {
           "name": "epicknights_open_helms-1.1-forge-1.20.1.jar",
@@ -946,12 +958,6 @@
           "url": "mods/YungsApi-1.20-Forge-4.0.6.jar",
           "sha1": "af584b690f5646c6032002b58abc4591beed3833",
           "size": 370524
-        },
-        {
-          "name": "[1.20.1-forge]-Epic-Knights-9.23.jar",
-          "url": "mods/[1.20.1-forge]-Epic-Knights-9.23.jar",
-          "sha1": "2605c36d39fdb4d7fa654cce175573603840ac66",
-          "size": 2669952
         },
         {
           "name": "[1.20.1-forge]-Epic-Knights-Ores-and-Alloys-1.1.jar",
