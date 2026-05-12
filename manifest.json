@@ -672,6 +672,12 @@
           "size": 1325988
         },
         {
+          "name": "mythrais-5.0.3-1.20.1-fabric-beta5.jar",
+          "url": "mods/mythrais-5.0.3-1.20.1-fabric-beta5.jar",
+          "sha1": "a8ebd205da9f619ede8cb9eff7c5eb5fa551f4e4",
+          "size": 9791001
+        },
+        {
           "name": "netmusic-1.4.0-forge+mc1.20.1.jar",
           "url": "mods/netmusic-1.4.0-forge+mc1.20.1.jar",
           "sha1": "a51680a0e5c43d6d02c2a53e9a2bded2667c9aab",
