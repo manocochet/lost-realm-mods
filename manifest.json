@@ -186,12 +186,6 @@
           "size": 14936
         },
         {
-          "name": "clockwork-0.5.5.2.jar",
-          "url": "mods/clockwork-0.5.5.2.jar",
-          "sha1": "2370ab4f3a34d7fee3b12b624a4c9c3ea641a100",
-          "size": 10989919
-        },
-        {
           "name": "cloth-config-11.1.136-forge.jar",
           "url": "mods/cloth-config-11.1.136-forge.jar",
           "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
@@ -448,12 +442,6 @@
           "url": "mods/gnumus_settlement_[Forge]1.20.1_v1.0.jar",
           "sha1": "058b7f35e0b91fe8b946cffe80bb28e5270bfb41",
           "size": 891249
-        },
-        {
-          "name": "guardvillagers-1.20.1-1.6.10.jar",
-          "url": "mods/guardvillagers-1.20.1-1.6.10.jar",
-          "sha1": "4638a636bd6b10ed1629c5c0ce72170c44f9e2ca",
-          "size": 199803
         },
         {
           "name": "hero-proof-5.1.2.jar",
