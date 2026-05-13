@@ -480,12 +480,6 @@
           "size": 21854126
         },
         {
-          "name": "immersive_melodies-0.6.0+1.20.1-forge.jar",
-          "url": "mods/immersive_melodies-0.6.0+1.20.1-forge.jar",
-          "sha1": "688f2b905c99a2d2c86f016eb09712d978f99102",
-          "size": 5517578
-        },
-        {
           "name": "immersive_paintings-0.6.7+1.20.1-forge.jar",
           "url": "mods/immersive_paintings-0.6.7+1.20.1-forge.jar",
           "sha1": "46910c10470c43cb1566384e9422fb76b341b84c",
@@ -598,18 +592,6 @@
           "url": "mods/mcw-doors-1.1.2-mc1.20.1forge.jar",
           "sha1": "731069f0a9c1377da0681415b6523e71439ae014",
           "size": 1250199
-        },
-        {
-          "name": "medieval_boomsticks-1.2.jar",
-          "url": "mods/medieval_boomsticks-1.2.jar",
-          "sha1": "81a26754a4ab1c07d13bd84d87bee64dc6a575da",
-          "size": 456510
-        },
-        {
-          "name": "Medieval_Embroidery-1.20.1-0.7.5.jar",
-          "url": "mods/Medieval_Embroidery-1.20.1-0.7.5.jar",
-          "sha1": "f8a478f94fcaae42ef427d3943b83b4e0adaf769",
-          "size": 2680054
         },
         {
           "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
