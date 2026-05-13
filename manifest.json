@@ -792,12 +792,6 @@
           "size": 12562436
         },
         {
-          "name": "StorageDrawers-1.20.1-12.9.14.jar",
-          "url": "mods/StorageDrawers-1.20.1-12.9.14.jar",
-          "sha1": "0f96a4f409515d660ed7fb206edb2fd998bfbf29",
-          "size": 950686
-        },
-        {
           "name": "Structory_1.20.x_v1.3.5.jar",
           "url": "mods/Structory_1.20.x_v1.3.5.jar",
           "sha1": "88c1d90ac79c98a50e3e4bd3a93c70431c716dd5",
@@ -862,12 +856,6 @@
           "url": "mods/towntalk-1.20.1-1.1.0.jar",
           "sha1": "03e6488b9e762888d1d187d5cf73a60695b63c52",
           "size": 49194778
-        },
-        {
-          "name": "travelersbackpack-forge-1.20.1-9.1.38.jar",
-          "url": "mods/travelersbackpack-forge-1.20.1-9.1.38.jar",
-          "sha1": "9bc0e2b5d0d6147cb570199048874656f7c57b80",
-          "size": 1173691
         },
         {
           "name": "valarian_conquest-4.2.1-forge-1.20.1.jar",
