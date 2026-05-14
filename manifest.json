@@ -1138,6 +1138,12 @@
           "size": 9382729
         },
         {
+          "name": "Knight'sAntiqueArmory_32x32[all_versions]ver1.0.zip",
+          "url": "resourcepacks/Knight'sAntiqueArmory_32x32[all_versions]ver1.0.zip",
+          "sha1": "1c72882316ec2212edd6cb2ef1c13d33beee619c",
+          "size": 3247791
+        },
+        {
           "name": "Knight\u2018sArmor_32x32.ver.3.8[all_versions].zip",
           "url": "resourcepacks/Knight\u2018sArmor_32x32.ver.3.8[all_versions].zip",
           "sha1": "36e7b297bf656be130b79831d400e7127f1aecd2",
@@ -1148,6 +1154,18 @@
           "url": "resourcepacks/luminousv3.zip",
           "sha1": "f83a157a630cb8c0753f0b8b9dfba838bdab72e3",
           "size": 266442
+        },
+        {
+          "name": "mythrais-32x-5.0.3-beta5.zip",
+          "url": "resourcepacks/mythrais-32x-5.0.3-beta5.zip",
+          "sha1": "52b42847b2c61d5bda44127daaf719dfb19fb644",
+          "size": 1538840
+        },
+        {
+          "name": "Witcher 3 Music 1.20.1-2.zip",
+          "url": "resourcepacks/Witcher 3 Music 1.20.1-2.zip",
+          "sha1": "6f07941f95f11465ab864d5b31996ccb9c12382e",
+          "size": 99000211
         }
       ]
     },
