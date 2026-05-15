@@ -114,6 +114,12 @@
           "size": 118745
         },
         {
+          "name": "bjornlib-forge-1.20.1-1.0.20.11.jar",
+          "url": "mods/bjornlib-forge-1.20.1-1.0.20.11.jar",
+          "sha1": "8e4e13edbc1f66c6e35c15d8b17340541622285f",
+          "size": 458056
+        },
+        {
           "name": "blockui-1.20.1-1.0.194.jar",
           "url": "mods/blockui-1.20.1-1.0.194.jar",
           "sha1": "9a50469803b8c078a24af3dbf0d323f1b891c526",
@@ -880,6 +886,12 @@
           "url": "mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
           "sha1": "9fe819dc110461f55909dabbed73e4fe3bdde158",
           "size": 283977
+        },
+        {
+          "name": "witcherworld-2.2.3.3-1.20.1 (1).jar",
+          "url": "mods/witcherworld-2.2.3.3-1.20.1 (1).jar",
+          "sha1": "41d858a3ff0db2f43cb927cbb836ccb0f8f8fcbe",
+          "size": 22279672
         },
         {
           "name": "worldedit-mod-7.2.15.jar",
