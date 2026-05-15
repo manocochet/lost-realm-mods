@@ -480,12 +480,6 @@
           "size": 1379220
         },
         {
-          "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-          "url": "mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
-          "sha1": "2019d821bed9071daabed43979433a5473ceee49",
-          "size": 625185
-        },
-        {
           "name": "kotlinforforge-4.11.0-all.jar",
           "url": "mods/kotlinforforge-4.11.0-all.jar",
           "sha1": "1fd8acfd75a2be2dc3cdcc7e816482b2e427d6e5",
@@ -580,12 +574,6 @@
           "url": "mods/mcw-doors-1.1.2-mc1.20.1forge.jar",
           "sha1": "731069f0a9c1377da0681415b6523e71439ae014",
           "size": 1250199
-        },
-        {
-          "name": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-          "url": "mods/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
-          "sha1": "e0942d396a70c09038e6c2e5e1da6505178249b8",
-          "size": 37178
         },
         {
           "name": "minecolonies-1.20.1-1.1.1214.jar",
@@ -2503,48 +2491,6 @@
           "url": "config/fabric/indigo-renderer.properties",
           "sha1": "48b26790870613a3e137c21b38f14f33270dba47",
           "size": 290
-        },
-        {
-          "name": "fancymenu/customizablemenus.txt",
-          "url": "config/fancymenu/customizablemenus.txt",
-          "sha1": "e6ffb2badf3910d3152b706e0e369cc6f3a84c42",
-          "size": 76
-        },
-        {
-          "name": "fancymenu/custom_gui_screens.txt",
-          "url": "config/fancymenu/custom_gui_screens.txt",
-          "sha1": "50b4602527a4e3cfea6016ec001f3b68ace1d65c",
-          "size": 51
-        },
-        {
-          "name": "fancymenu/legacy_checklist.txt",
-          "url": "config/fancymenu/legacy_checklist.txt",
-          "sha1": "f1569161a6ad24cc61b02dece317ea16e351ff1e",
-          "size": 42
-        },
-        {
-          "name": "fancymenu/options.txt",
-          "url": "config/fancymenu/options.txt",
-          "sha1": "cb1dd14dbe34e97433b062e7bf023d83f1368ccd",
-          "size": 2128
-        },
-        {
-          "name": "fancymenu/customization/title_screen_layout.txt",
-          "url": "config/fancymenu/customization/title_screen_layout.txt",
-          "sha1": "2ea88f88637cd45aa75715879dad1ae7eadd241b",
-          "size": 40393
-        },
-        {
-          "name": "fancymenu/ui_themes/dark.json",
-          "url": "config/fancymenu/ui_themes/dark.json",
-          "sha1": "22cefe5b52927d21f68b7e1537f52fba7ec6cca1",
-          "size": 6218
-        },
-        {
-          "name": "fancymenu/ui_themes/light.json",
-          "url": "config/fancymenu/ui_themes/light.json",
-          "sha1": "800a6df3553074fe5474a9dc43d0ce0fdeb8f131",
-          "size": 6220
         },
         {
           "name": "forgematica/forgematica_game44-fr.hosterfy.com_20402.json",
