@@ -72,10 +72,10 @@
           "size": 91808
         },
         {
-          "name": "azurelib-neo-1.20.1-3.1.9.jar",
-          "url": "mods/azurelib-neo-1.20.1-3.1.9.jar",
-          "sha1": "5afc042b53963893e9dfb10a166bc933b2cb30fc",
-          "size": 1059994
+          "name": "azurelib-neo-1.20.1-3.0.6 (1).jar",
+          "url": "mods/azurelib-neo-1.20.1-3.0.6 (1).jar",
+          "sha1": "7e465989156e88092d21a68738f12a89f779914f",
+          "size": 1252044
         },
         {
           "name": "balm-forge-1.20.1-7.3.30-all.jar",
@@ -112,12 +112,6 @@
           "url": "mods/bettermobvisualcombat-forge-1.20.1.jar",
           "sha1": "eddd202867431ebf46a5fead5270d0d7ef20f432",
           "size": 118745
-        },
-        {
-          "name": "bjornlib-forge-1.20.1-1.0.20.11.jar",
-          "url": "mods/bjornlib-forge-1.20.1-1.0.20.11.jar",
-          "sha1": "8e4e13edbc1f66c6e35c15d8b17340541622285f",
-          "size": 458056
         },
         {
           "name": "blockui-1.20.1-1.0.194.jar",
@@ -886,12 +880,6 @@
           "url": "mods/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
           "sha1": "9fe819dc110461f55909dabbed73e4fe3bdde158",
           "size": 283977
-        },
-        {
-          "name": "witcherworld-2.2.3.3-1.20.1 (1).jar",
-          "url": "mods/witcherworld-2.2.3.3-1.20.1 (1).jar",
-          "sha1": "41d858a3ff0db2f43cb927cbb836ccb0f8f8fcbe",
-          "size": 22279672
         },
         {
           "name": "worldedit-mod-7.2.15.jar",
